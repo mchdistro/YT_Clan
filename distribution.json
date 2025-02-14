@@ -439,6 +439,17 @@
           "required": {
             "value": false
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/files/servers.dat",
+            "MD5": "3e65eba1dab94a5e7e9256a7e9f14d65",
+            "path": "servers.dat"
+          }
         }
       ]
     }
