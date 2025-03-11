@@ -9,19 +9,19 @@
   "servers": [
     {
       "id": "YT_Clan-1.20.1",
-      "name": "YT_Clan (Minecraft 1.20.1)",
-      "description": "YT_Clan Running Minecraft 1.20.1 (Fabric v0.16.10)",
-      "icon": null,
+      "name": "YT (Youtube Clan)",
+      "description": "Minecraft 1.20.1 (Fabric v0.16.10)",
+      "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "yt-clan.gotiger.ggm.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.10",
@@ -116,6 +116,66 @@
           ]
         },
         {
+          "id": "com.supermartijn642:additionallanterns:1.1.1a@jar",
+          "name": "Additional Lanterns",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3636962,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/additionallanterns-1.1.1a-fabric-mc1.20.2.jar",
+            "MD5": "6f95d1c847c9ef96c477bf264d2259c1"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:amendments:1.20-1.2.19@jar",
+          "name": "Amendments",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 998850,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/amendments-1.20-1.2.19-fabric.jar",
+            "MD5": "0c1b3bca914082f7929f2ba94b39e0bd"
+          }
+        },
+        {
+          "id": "net.blay09.mods.balm:balm-fabric:7.3.18@jar",
+          "name": "Balm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 471498,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/balm-fabric-1.20.1-7.3.18.jar",
+            "MD5": "ad78fd63427bcea11845377b0eab6bce"
+          }
+        },
+        {
+          "id": "kr.shihyeon:blurserveraddress:1.0.0+mc1.20.1@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6738,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
+            "MD5": "30b840a2f3d109a49755e0ae4b66ee58"
+          }
+        },
+        {
+          "id": "com.supermartijn642:connectedglass:1.1.12@jar",
+          "name": "Connected Glass",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 842928,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/connectedglass-1.1.12-fabric-mc1.20.1.jar",
+            "MD5": "b7b1646178c7dd191f034164f4db94ea"
+          }
+        },
+        {
+          "id": "fuzs.diagonalfences:diagonalfences:8.1.5@jar",
+          "name": "Diagonal Fences",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 167185,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/DiagonalFences-v8.1.5-1.20.1-Fabric.jar",
+            "MD5": "e76d148e4681fd3e8911cbe54375dddd"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.92.3+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -124,219 +184,15 @@
             "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/fabric-api-0.92.3+1.20.1.jar",
             "MD5": "dc37eff29b709467379bc41ae4f721b4"
           }
-        }
-      ]
-    },
-    {
-      "id": "YT_Clan-1.21.1",
-      "name": "YT (Youtube Clan)",
-      "description": "Minecraft 1.21.1 (Fabric v0.16.10)",
-      "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
-      "version": "1.0.0",
-      "address": "yt-clan.gotiger.ggm.kr",
-      "minecraftVersion": "1.21.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": true,
-      "autoconnect": true,
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.16.10",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1387408,
-            "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.21.1-fabric-0.16.10",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2859,
-                "MD5": "3d2caeb3e2fe6345a156d33a50120a87",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/versions/1.21.1-fabric-0.16.10/1.21.1-fabric-0.16.10.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.7.1",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.7.1",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1494834,
-                "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.21.1",
-              "name": "Fabric (intermediary)",
-              "type": "Library",
-              "artifact": {
-                "size": 657725,
-                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
-              }
-            }
-          ]
         },
         {
-          "id": "com.supermartijn642:additionallanterns:1.1.1@jar",
-          "name": "Additional Lanterns",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3146804,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/additionallanterns-1.1.1-fabric-mc1.21.jar",
-            "MD5": "d115cb73abfbb654259d3a7bc0ca2490"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:amendments:1.21-1.2.23@jar",
-          "name": "Amendments",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 819417,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/amendments-1.21-1.2.23-fabric.jar",
-            "MD5": "c287221ccf3b020714d0d7b628b86dc7"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.blay09.mods.balm:balm-fabric:21.0.27@jar",
-          "name": "Balm",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 458611,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/balm-fabric-1.21.1-21.0.27.jar",
-            "MD5": "a4ef7eafb4ec3b1db1e90346dfd0bf74"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "kr.shihyeon:blurserveraddress:1.1.0+mc1.20.4@jar",
-          "name": "BlurServerAddress",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 10279,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/blurserveraddress-1.1.0+mc1.20.4.jar",
-            "MD5": "b8f6099fed2c7b6464120586e67d1f92"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.supermartijn642:connectedglass:1.1.12@jar",
-          "name": "Connected Glass",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 845928,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/connectedglass-1.1.12-fabric-mc1.21.jar",
-            "MD5": "2ef2a6e722d2dd8f27ffb35cf8caf9af"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "fuzs.diagonalfences:diagonalfences:21.1.1@jar",
-          "name": "Diagonal Fences",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 165134,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/DiagonalFences-v21.1.1-1.21.1-Fabric.jar",
-            "MD5": "680d7f89cb62c1f32804d130181799ca"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:fabric-api:0.115.0+1.21.1@jar",
-          "name": "Fabric API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2385171,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/fabric-api-0.115.0+1.21.1.jar",
-            "MD5": "5e627455ae16cbb2c50eb0dd76314b1f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.1.3@jar",
+          "id": "fuzs.forgeconfigapiport.impl:forgeconfigapiport:8.0.1@jar",
           "name": "Forge Config API Port",
           "type": "FabricMod",
           "artifact": {
-            "size": 631046,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/ForgeConfigAPIPort-v21.1.3-1.21.1-Fabric.jar",
-            "MD5": "91ebf44e3e23f58c20db21178e5be6c8"
-          },
-          "required": {
-            "value": false
+            "size": 396955,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "0842b1a68c115149c95a25e14d67acad"
           }
         },
         {
@@ -344,77 +200,59 @@
           "name": "Fusion",
           "type": "FabricMod",
           "artifact": {
-            "size": 498565,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/fusion-1.2.4-fabric-mc1.21.jar",
-            "MD5": "359e4a580930c04459d655acad380540"
-          },
-          "required": {
-            "value": false
+            "size": 498828,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/fusion-1.2.4-fabric-mc1.20.1.jar",
+            "MD5": "d9253983744e13c873750936b59f0b0d"
           }
         },
         {
-          "id": "earth.terrarium:handcrafted:4.0.2@jar",
+          "id": "earth.terrarium:handcrafted:3.0.6@jar",
           "name": "Handcrafted",
           "type": "FabricMod",
           "artifact": {
-            "size": 7118771,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/handcrafted-fabric-1.21.1-4.0.2.jar",
-            "MD5": "5471c8105be6baae5962161f821bdd86"
-          },
-          "required": {
-            "value": false
+            "size": 7106384,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/handcrafted-fabric-1.20.1-3.0.6.jar",
+            "MD5": "0cb41833dc35949cb23625d2e2b3579d"
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.8.1+mc1.21.1@jar",
+          "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2677842,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/iris-fabric-1.8.1+mc1.21.1.jar",
-            "MD5": "f485ec51b478ca0b4bf86256c1c82964"
-          },
-          "required": {
-            "value": false
+            "size": 2726899,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
         {
-          "id": "mezz.jei:jei:19.21.0.247@jar",
+          "id": "mezz.jei:jei:15.20.0.106@jar",
           "name": "Just Enough Items",
           "type": "FabricMod",
           "artifact": {
-            "size": 1474082,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/jei-1.21.1-fabric-19.21.0.247.jar",
-            "MD5": "7712fb0beebc6692c4c1f35e45b8a6f3"
-          },
-          "required": {
-            "value": false
+            "size": 1392720,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.106.jar",
+            "MD5": "f2536f0f14f67847634ae70d3ca79348"
           }
         },
         {
-          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.37@jar",
+          "id": "journeymap:journeymap:5.10.3@jar",
           "name": "Journeymap",
           "type": "FabricMod",
           "artifact": {
-            "size": 3409457,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.37.jar",
-            "MD5": "5f5f630076b2e8ad749670f18e649ec6"
-          },
-          "required": {
-            "value": false
+            "size": 7209180,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "MD5": "4689aa2b7ae8126112e32a2069dc1040"
           }
         },
         {
-          "id": "com.hyfata.najoan:koreanpatch:1.6.11+mc1.21@jar",
+          "id": "com.hyfata.najoan:koreanpatch:1.6.13+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "FabricMod",
           "artifact": {
-            "size": 462471,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/koreanpatch-fabric-1.6.11+mc1.21.jar",
-            "MD5": "b86f761c2cd1a6905acbf440d486f79f"
-          },
-          "required": {
-            "value": false
+            "size": 448094,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
+            "MD5": "6e20891b8d2b8770569f819d4e765c4d"
           }
         },
         {
@@ -422,12 +260,9 @@
           "name": "Macaw's Doors",
           "type": "FabricMod",
           "artifact": {
-            "size": 1223064,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/mcw-doors-1.1.2-mc1.21.1fabric.jar",
-            "MD5": "e951ac7fa051a45dfd9f355bcd8d9e22"
-          },
-          "required": {
-            "value": false
+            "size": 1445267,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/mcw-doors-1.1.2-mc1.20.1fabric.jar",
+            "MD5": "3e10c0adf148c73f96d856a177b696c4"
           }
         },
         {
@@ -435,12 +270,9 @@
           "name": "Macaw's Furniture",
           "type": "FabricMod",
           "artifact": {
-            "size": 1870160,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/mcw-furniture-3.3.0-mc1.21.1fabric.jar",
-            "MD5": "58d0c9f12c6081aa08c239f4e63e0025"
-          },
-          "required": {
-            "value": false
+            "size": 1910842,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
+            "MD5": "bf6626032fe412d93406d3bcdeee7963"
           }
         },
         {
@@ -448,90 +280,69 @@
           "name": "Macaw's Trapdoors",
           "type": "FabricMod",
           "artifact": {
-            "size": 561019,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/mcw-trapdoors-1.1.4-mc1.21.1fabric.jar",
-            "MD5": "7d5d62705c60f83c43bdc32a0bf9dba2"
-          },
-          "required": {
-            "value": false
+            "size": 665031,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/mcw-trapdoors-1.1.4-mc1.20.1fabric.jar",
+            "MD5": "69525553cfe9c68bfeafcf765ae533a9"
           }
         },
         {
-          "id": "net.wurstclient.glass:mo_glass:1.10.1-MC1.21.1@jar",
+          "id": "net.wurstclient.glass:mo_glass:1.7-MC1.20.1@jar",
           "name": "Mo Glass",
           "type": "FabricMod",
           "artifact": {
-            "size": 552652,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/Mo-Glass-1.10.1-MC1.21.1.jar",
-            "MD5": "291b098ae14fb88775d7fcfc3ee192a0"
-          },
-          "required": {
-            "value": false
+            "size": 536659,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/Mo-Glass-1.7-MC1.20.1.jar",
+            "MD5": "b6af3533dc0ef80ac290dd0863c2d4ba"
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.21-2.17.25@jar",
-          "name": "Moonlight Lib",
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.72@jar",
+          "name": "Moonlight",
           "type": "FabricMod",
           "artifact": {
-            "size": 1095871,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/moonlight-1.21-2.17.25-fabric.jar",
-            "MD5": "ff6a6d0cb1e101594e411e70eeabd8f1"
-          },
-          "required": {
-            "value": false
+            "size": 1229813,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/moonlight-1.20-2.13.72-fabric.jar",
+            "MD5": "46133007c1b0222aedce4345a6e8f4f1"
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.2@jar",
+          "id": "su.plo.voice:plasmovoice:2.1.3@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
           "artifact": {
-            "size": 11911155,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/plasmovoice-fabric-1.21-2.1.2.jar",
-            "MD5": "c454e342469edf476283cc6d330a73cf"
-          },
-          "required": {
-            "value": false
+            "size": 11936723,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.1.3.jar",
+            "MD5": "b0eaff774d54f678cfd334801507f63e"
           }
         },
         {
-          "id": "fuzs.puzzleslib.fabric.impl:puzzleslib:21.1.27@jar",
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.29@jar",
           "name": "Puzzles Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1111094,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/PuzzlesLib-v21.1.27-1.21.1-Fabric.jar",
-            "MD5": "cb6d409f1b520676d1e3c5436b25cd48"
-          },
-          "required": {
-            "value": false
+            "size": 1064665,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/PuzzlesLib-v8.1.29-1.20.1-Fabric.jar",
+            "MD5": "8f4364eba0f85bdd8267d494aedb11d9"
           }
         },
         {
-          "id": "com.teamresourceful:resourcefullib:3.0.11@jar",
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
           "name": "Resourceful Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 484468,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/resourcefullib-fabric-1.21-3.0.11.jar",
-            "MD5": "ae47a63f787aa495014da5200118e631"
-          },
-          "required": {
-            "value": false
+            "size": 431646,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/resourcefullib-fabric-1.20.1-2.1.29.jar",
+            "MD5": "9d4e1e80304edc8a672d0173c46c7514"
           }
         },
         {
-          "id": "net.caffeinemc.mods:sodium:0.6.7+mc1.21.1@jar",
+          "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1293429,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.7+mc1.21.1.jar",
-            "MD5": "55241bd20a15ed25644d02da61cd3296"
-          },
-          "required": {
-            "value": false
+            "size": 971552,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
         {
@@ -539,25 +350,39 @@
           "name": "SuperMartijn642's Core Lib",
           "type": "FabricMod",
           "artifact": {
-            "size": 572596,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar",
-            "MD5": "95d9daeca0b1492175c12765c5fec9d9"
-          },
-          "required": {
-            "value": false
+            "size": 562776,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar",
+            "MD5": "de8a3f64db9f132efe1ba69715c7768e"
           }
         },
         {
-          "id": "net.blay09.mods:waystones:21.1.10@jar",
+          "id": "net.blay09.mods:waystones:14.1.11@jar",
           "name": "Waystones",
           "type": "FabricMod",
           "artifact": {
-            "size": 856082,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/fabricmods/optionalon/waystones-fabric-1.21.1-21.1.10.jar",
-            "MD5": "7adc230bc829e9876a91d3c98e70bdb4"
-          },
-          "required": {
-            "value": false
+            "size": 487379,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/fabricmods/required/waystones-fabric-1.20.1-14.1.11.jar",
+            "MD5": "6faab90011cf7b633d3f2c27e5e393fa"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 1713,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/journeymap/config/5.10/journeymap.minimap.config",
+            "path": "journeymap/config/5.10/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 210,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/options.txt",
+            "path": "options.txt"
           }
         },
         {
@@ -566,9 +391,107 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.21.1/files/servers.dat",
-            "MD5": "3e65eba1dab94a5e7e9256a7e9f14d65",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/servers.dat",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "BSL_v8.2.09.zip",
+          "name": "BSL_v8.2.09.zip",
+          "type": "File",
+          "artifact": {
+            "size": 954784,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
+            "MD5": "4443556b4e0d63394f0df1297e484454",
+            "path": "shaderpacks/BSL_v8.2.09.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.2.2.zip",
+          "name": "ComplementaryReimagined_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441683,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.2.zip",
+            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
+            "path": "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.2.2.zip",
+          "name": "ComplementaryUnbound_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441687,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "MakeUp-UltraFast-9.0a.zip",
+          "name": "MakeUp-UltraFast-9.0a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 357630,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/MakeUp-UltraFast-9.0a.zip",
+            "MD5": "84bb057ea44f792790c00d7aea5d5c47",
+            "path": "shaderpacks/MakeUp-UltraFast-9.0a.zip"
+          }
+        },
+        {
+          "id": "Noble v1.7.3.zip",
+          "name": "Noble v1.7.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11340594,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/Noble%20v1.7.3.zip",
+            "MD5": "fb18a1f3fc466e5d5d89e6e50ffe7745",
+            "path": "shaderpacks/Noble v1.7.3.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 Lite.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142247,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Lite.zip",
+            "MD5": "e6294fc113d73c384a9e88e722d1b6da",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142241,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
+            "MD5": "f2ac25e1dd3afb18344d18593b41e905",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Medium.zip"
+          }
+        },
+        {
+          "id": "Solas Shader V2.3.zip",
+          "name": "Solas Shader V2.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1244539,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/Solas%20Shader%20V2.3.zip",
+            "MD5": "3f132e37c38cf7f145ca5bc186fe2aff",
+            "path": "shaderpacks/Solas Shader V2.3.zip"
+          }
+        },
+        {
+          "id": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip",
+          "name": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3184524,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_Clan-1.20.1/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV93.0%C2%A7r%C2%A7l.zip",
+            "MD5": "021c95bd3d217b4a7e45997d5127285b",
+            "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
           }
         }
       ]

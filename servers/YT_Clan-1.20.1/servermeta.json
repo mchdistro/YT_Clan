@@ -2,20 +2,25 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/YT_Clan/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "YT_Clan (Minecraft 1.20.1)",
-    "description": "YT_Clan Running Minecraft 1.20.1 (Fabric v0.16.10)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "name": "YT (Youtube Clan)",
+    "description": "Minecraft 1.20.1 (Fabric v0.16.10)",
+    "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
+    "address": "yt-clan.gotiger.ggm.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
-    "autoconnect": false
+    "mainServer": true,
+    "autoconnect": true
   },
   "fabric": {
     "version": "0.16.10"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["servers.dat", "options.txt", "journeymap/config/5.10/journeymap.minimap.config"]
+    }
+  ]
 }
