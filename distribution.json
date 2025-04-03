@@ -651,13 +651,13 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.0@jar",
+          "id": "su.plo.voice:plasmovoice:2.1.3@jar",
           "name": "Plasmo Voice",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11896547,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_DiaGame-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.0.jar",
-            "MD5": "57a5eff54f20e30e65e30e66b1bd5453"
+            "size": 11913213,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_DiaGame-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
+            "MD5": "cb0f52b7f015a7483662a0afdbcf877c"
           }
         },
         {
