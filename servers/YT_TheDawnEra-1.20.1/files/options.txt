@@ -1,0 +1,13 @@
+version:3465
+autoJump:false
+resourcePacks:[]
+incompatibleResourcePacks:[]
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+onboardAccessibility:false
+key_key.chat:key.keyboard.enter
+soundCategory_music:0.0
+soundCategory_weather:0.5
