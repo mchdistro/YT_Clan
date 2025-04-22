@@ -1267,16 +1267,6 @@
           ]
         },
         {
-          "id": "ru.astemir:astemirlib:1.11@jar",
-          "name": "AstemirLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 361215,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/astemirlib-1.20.1-1.11.jar",
-            "MD5": "3cd489bee9d0075438b1e8ccc65a4d5c"
-          }
-        },
-        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -1287,6 +1277,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1012500,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "MD5": "b5e9905073787ed9ab392aaf22b65a40"
           }
         },
         {
@@ -1346,13 +1346,13 @@
           }
         },
         {
-          "id": "ru.xishnikus.thedawnera:dawnera:0.58.91@jar",
-          "name": "TheDawnEra",
+          "id": "net.mcreator.interpritation:thebrokenscript:1.9@jar",
+          "name": "The Broken Script",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4067761,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/thedawnera-1.20.1-0.58.91.jar",
-            "MD5": "8a17a00c372ccd679c1fd1fd17a79268"
+            "size": 90257821,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/thebrokenscript-1.9.3-forge-1.20.1.jar",
+            "MD5": "a7a8f6805a4d95d3ae11567ec78d5fda"
           }
         },
         {
