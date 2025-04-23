@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/YT_Clan/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "공룡모드",
+    "name": "The Broken Script",
     "description": "Minecraft 1.20.1 (Forge v47.4.0)",
     "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
     "address": "yt-clan.gotiger.ggm.kr",
