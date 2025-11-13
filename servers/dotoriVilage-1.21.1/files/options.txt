@@ -1,0 +1,10 @@
+version:3955
+narrator:0
+lang:ko_kr
+hideServerAddress:true
+tutorialStep:none
+skipMultiplayerWarning:true
+allowServerListing:true
+onboardAccessibility:false
+menuBackgroundBlurriness:5
+key_key.chat:key.keyboard.enter

@@ -1014,6 +1014,27 @@
             "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
             "MD5": "d480ea480d47cf731cd00c39abfae160"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 222,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 103,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/files/servers.dat",
+            "MD5": "2a5b84522c62e03e2fa7410235a2f5e8",
+            "path": "servers.dat"
+          }
         }
       ]
     }
