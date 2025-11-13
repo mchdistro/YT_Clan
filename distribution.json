@@ -8,646 +8,1011 @@
   },
   "servers": [
     {
-      "id": "YT_TheDawnEra-1.20.1",
-      "name": "The Broken Script",
-      "description": "Minecraft 1.20.1 (Forge v47.4.0)",
+      "id": "dotoriVilage-1.21.1",
+      "name": "도토리 마을",
+      "description": "Minecraft 1.21.1 (Fabric v0.17.3)",
       "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "yt-clan.gotiger.ggm.kr",
-      "minecraftVersion": "1.20.1",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
-          "name": "Minecraft Forge (lowcodelanguage)",
-          "type": "ForgeHosted",
-          "classpath": true,
+          "id": "net.fabricmc:fabric-loader:0.17.3",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
           "artifact": {
-            "size": 7399,
-            "MD5": "a839d5603a05491f84f6c36284ab0ea8",
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
+            "size": 1917330,
+            "MD5": "54e368d0ccdcb9109a63f048e26526b0",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.4.0",
-              "name": "Minecraft Forge (version.json)",
+              "id": "1.21.1-fabric-0.17.3",
+              "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16612,
-                "MD5": "029daa8b97e10cedd4d6726a563379ab",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/versions/1.20.1-forge-47.4.0/1.20.1-forge-47.4.0.json"
+                "size": 2847,
+                "MD5": "93d10e85f331595578d7f1661509437b",
+                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/versions/1.21.1-fabric-0.17.3/1.21.1-fabric-0.17.3.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.0",
-              "name": "Minecraft Forge (fmlcore)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 118914,
-                "MD5": "bc798cdec9ec7eeb3354b550d5e67652",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.0",
-              "name": "Minecraft Forge (javafmllanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 16855,
-                "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.0",
-              "name": "Minecraft Forge (mclanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 4998,
-                "MD5": "cd3d6af64b394583aa83090915469f9e",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.0:universal",
-              "name": "Minecraft Forge (universal jar)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 2776081,
-                "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.0:client",
-              "name": "Minecraft Forge (client jar)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 4826828,
-                "MD5": "1940b09c4b066287963bde17aa375cec",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
-              "name": "Minecraft Forge (client srg)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 18842082,
-                "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
-              "name": "Minecraft Forge (client slim)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 12592249,
-                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
-              "name": "Minecraft Forge (client extra)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 10436626,
-                "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "cpw.mods:securejarhandler:2.1.10",
-              "name": "Minecraft Forge (securejarhandler)",
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
               "type": "Library",
               "artifact": {
-                "size": 88749,
-                "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7.1",
-              "name": "Minecraft Forge (asm)",
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
-              "name": "Minecraft Forge (asm-commons)",
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
-              "name": "Minecraft Forge (asm-tree)",
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7.1",
-              "name": "Minecraft Forge (asm-util)",
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
-              "name": "Minecraft Forge (asm-analysis)",
+              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
               "type": "Library",
               "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "size": 1504519,
+                "MD5": "798c8c25fb84d91b384bdee442c249d7",
+                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
               }
             },
             {
-              "id": "net.minecraftforge:accesstransformers:8.0.4",
-              "name": "Minecraft Forge (accesstransformers)",
+              "id": "net.fabricmc:intermediary:1.21.1",
+              "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 77756,
-                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
-              }
-            },
-            {
-              "id": "org.antlr:antlr4-runtime:4.9.1",
-              "name": "Minecraft Forge (antlr4-runtime)",
-              "type": "Library",
-              "artifact": {
-                "size": 337868,
-                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:eventbus:6.0.5",
-              "name": "Minecraft Forge (eventbus)",
-              "type": "Library",
-              "artifact": {
-                "size": 53985,
-                "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:forgespi:7.0.1",
-              "name": "Minecraft Forge (forgespi)",
-              "type": "Library",
-              "artifact": {
-                "size": 29831,
-                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:coremods:5.2.4",
-              "name": "Minecraft Forge (coremods)",
-              "type": "Library",
-              "artifact": {
-                "size": 31872,
-                "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
-              }
-            },
-            {
-              "id": "cpw.mods:modlauncher:10.0.9",
-              "name": "Minecraft Forge (modlauncher)",
-              "type": "Library",
-              "artifact": {
-                "size": 130343,
-                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:unsafe:0.2.0",
-              "name": "Minecraft Forge (unsafe)",
-              "type": "Library",
-              "artifact": {
-                "size": 2834,
-                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:mergetool:1.1.5:api",
-              "name": "Minecraft Forge (mergetool)",
-              "type": "Library",
-              "artifact": {
-                "size": 2572,
-                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
-              }
-            },
-            {
-              "id": "com.electronwill.night-config:core:3.6.4",
-              "name": "Minecraft Forge (core)",
-              "type": "Library",
-              "artifact": {
-                "size": 199834,
-                "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
-              }
-            },
-            {
-              "id": "com.electronwill.night-config:toml:3.6.4",
-              "name": "Minecraft Forge (toml)",
-              "type": "Library",
-              "artifact": {
-                "size": 31816,
-                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
-              }
-            },
-            {
-              "id": "org.apache.maven:maven-artifact:3.8.5",
-              "name": "Minecraft Forge (maven-artifact)",
-              "type": "Library",
-              "artifact": {
-                "size": 58077,
-                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
-              }
-            },
-            {
-              "id": "net.jodah:typetools:0.6.3",
-              "name": "Minecraft Forge (typetools)",
-              "type": "Library",
-              "artifact": {
-                "size": 18281,
-                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
-              }
-            },
-            {
-              "id": "net.minecrell:terminalconsoleappender:1.2.0",
-              "name": "Minecraft Forge (terminalconsoleappender)",
-              "type": "Library",
-              "artifact": {
-                "size": 15977,
-                "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
-              }
-            },
-            {
-              "id": "org.jline:jline-reader:3.12.1",
-              "name": "Minecraft Forge (jline-reader)",
-              "type": "Library",
-              "artifact": {
-                "size": 150765,
-                "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
-              }
-            },
-            {
-              "id": "org.jline:jline-terminal:3.12.1",
-              "name": "Minecraft Forge (jline-terminal)",
-              "type": "Library",
-              "artifact": {
-                "size": 211712,
-                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
-              }
-            },
-            {
-              "id": "org.spongepowered:mixin:0.8.5",
-              "name": "Minecraft Forge (mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1089277,
-                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
-              }
-            },
-            {
-              "id": "org.openjdk.nashorn:nashorn-core:15.4",
-              "name": "Minecraft Forge (nashorn-core)",
-              "type": "Library",
-              "artifact": {
-                "size": 2167292,
-                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarSelector:0.3.19",
-              "name": "Minecraft Forge (JarJarSelector)",
-              "type": "Library",
-              "artifact": {
-                "size": 17374,
-                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
-              "name": "Minecraft Forge (JarJarMetadata)",
-              "type": "Library",
-              "artifact": {
-                "size": 15895,
-                "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
-              }
-            },
-            {
-              "id": "cpw.mods:bootstraplauncher:1.1.2",
-              "name": "Minecraft Forge (bootstraplauncher)",
-              "type": "Library",
-              "artifact": {
-                "size": 8284,
-                "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
-              "name": "Minecraft Forge (JarJarFileSystems)",
-              "type": "Library",
-              "artifact": {
-                "size": 32195,
-                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.0",
-              "name": "Minecraft Forge (fmlloader)",
-              "type": "Library",
-              "artifact": {
-                "size": 267079,
-                "MD5": "5b26aba9f44796d54094022c1e73a49e",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.0",
-              "name": "Minecraft Forge (fmlearlydisplay)",
-              "type": "Library",
-              "artifact": {
-                "size": 170517,
-                "MD5": "68747d96f635b0a0dc9e070d3596a562",
-                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
+                "size": 657725,
+                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
+                "url": "https://github.com/mchdistro/YT_Clan/raw/main/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
-          "name": "Embeddium",
-          "type": "ForgeMod",
+          "id": "juuxel.adorn:adorn:6.0.0+1.21.1@jar",
+          "name": "Adorn",
+          "type": "FabricMod",
           "artifact": {
-            "size": 1320675,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          },
-          "required": {
-            "value": false
+            "size": 4967945,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Adorn-6.0.0+1.21.1-fabric.jar",
+            "MD5": "018b289f1a8da54df2ad6cbe8326ddcf"
           }
         },
         {
-          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
+          "id": "squeek.appleskin:appleskin:3.0.6+mc1.21@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1082585,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/appleskin-fabric-mc1.21-3.0.6.jar",
+            "MD5": "a24c435e84973afd607e20395ecba19d"
+          }
+        },
+        {
+          "id": "net.archers:archers:2.5.2+1.21.1@jar",
+          "name": "Archers (RPG Series)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 989900,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/archers-2.5.2+1.21.1.jar",
+            "MD5": "0b5eb2117928a1c39dba0c37a9d0f0aa"
+          }
+        },
+        {
+          "id": "dev.architectury.utils:architectury:13.0.8@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 600915,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar",
+            "MD5": "702e92d09a4855c6c8aa9e738a48efa4"
+          }
+        },
+        {
+          "id": "moe.plushie.armourers_workshop.init.platform.fabric.proxy:armourers_workshop:3.2.7-beta@jar",
+          "name": "Armourer's Workshop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6218149,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/armourersworkshop-fabric-1.21.1-3.2.7-beta.jar",
+            "MD5": "238d60d81a74538418ecc6de953c2139"
+          }
+        },
+        {
+          "id": "net.arsenal:arsenal:1.2.1+1.21.1@jar",
+          "name": "Arsenal (RPG Series)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1298652,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/arsenal-1.2.1+1.21.1.jar",
+            "MD5": "cbbce653f9b6bb8dbb355c105083f4df"
+          }
+        },
+        {
+          "id": "com.moulberry:axiom:5.1.1@jar",
+          "name": "Axiom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 42728924,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Axiom-5.1.1-for-MC1.21.1.jar",
+            "MD5": "54d04e70e5bce68d70fa45f3e4492df3"
+          }
+        },
+        {
+          "id": "mod.azure:azurelibarmor:3.0.18@jar",
+          "name": "AzureLib Armor",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 717839,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/azurelibarmor-fabric-1.21.1-3.0.18.jar",
+            "MD5": "2c3c6a90088796320c22c41059334d14"
+          }
+        },
+        {
+          "id": "net.bettercombat:bettercombat:2.1.5+1.21.1@jar",
+          "name": "Better Combat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 804945,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/bettercombat-fabric-2.1.5+1.21.1.jar",
+            "MD5": "e91934a75200a2dc62d2167a48170bf5"
+          }
+        },
+        {
+          "id": "net.barribob.boss:bosses_of_mass_destruction:1.10.2-1.21.1@jar",
+          "name": "Bosses of Mass Destruction (Beta)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2679483,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/BOMD-1.10.2-1.21.1.jar",
+            "MD5": "2fd7ad69c49f57c79cd444de64513a3c"
+          }
+        },
+        {
+          "id": "net.darkhax.bookshelf.fabric.impl:bookshelf:21.1.69@jar",
+          "name": "Bookshelf",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 347540,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/bookshelf-fabric-1.21.1-21.1.69.jar",
+            "MD5": "b5acda64d359e8d0bf4ea49036644e40"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cardinal-components:6.1.2@jar",
+          "name": "Cardinal Components API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 229196,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/cardinal-components-api-6.1.2.jar",
+            "MD5": "56b720554d1d0ac5efbac63d9099c8b3"
+          }
+        },
+        {
+          "id": "com.cerbon:cerbons_api:1.3.0@jar",
+          "name": "Cerbons API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 249215,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/CerbonsAPI-Fabric-1.21-1.3.0.jar",
+            "MD5": "2949d644a5ad7f17f05240fb383c59fd"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:0.14.0@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 80593,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/chat_heads-0.14.0-fabric-1.21.jar",
+            "MD5": "2ff11309e2e43a9fae57adb20762794b"
+          }
+        },
+        {
+          "id": "com.campersamu:chatheads:0.4+1.21.1@jar",
+          "name": "Chatheads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1020226,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/chatheads-0.4+1.21.1.jar",
+            "MD5": "8412c0e67e4c6c2d7bfefd43947d7d53"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
+          "name": "Cloth Config v15",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1157166,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "MD5": "a2c091b027ad6ba8e54b07020fd45884"
+          }
+        },
+        {
+          "id": "generated.fabricmod:clumps:19.0.0.1@jar",
+          "name": "Clumps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20723,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Clumps-fabric-1.21.1-19.0.0.1.jar",
+            "MD5": "8715713c6b63565a5eafb4c925275035"
+          }
+        },
+        {
+          "id": "me.pepperbell:continuity:3.0.0+1.21@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1014044,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/continuity-3.0.0+1.21.jar",
+            "MD5": "daee3841730e2576a621943f289deadb"
+          }
+        },
+        {
+          "id": "corgitaco.corgilib:corgilib:5.0.0.7@jar",
+          "name": "CorgiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 691375,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Corgilib-Fabric-1.21.1-5.0.0.7.jar",
+            "MD5": "136602b14734a1b5bc6d9ebb50add43f"
+          }
+        },
+        {
+          "id": "com.axperty:cratedelight:25.09.22-1.21-fabric@jar",
+          "name": "Crate Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 154855,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/cratedelight-25.09.22-1.21-fabric.jar",
+            "MD5": "e1c57df58eef3d447bf19dccccb93ef9"
+          }
+        },
+        {
+          "id": "noppes.npcs:customnpcs:1.0.0@jar",
+          "name": "Custom NPCs",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 13029840,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/CustomNPCs-Unofficial-Fabric-1.21.1.20251103.jar",
+            "MD5": "a4215294ab060a957c58fafccf18726b"
+          }
+        },
+        {
+          "id": "net.aurelj:dungeons_arise:2.1.68@jar",
+          "name": "When Dungeons Arise",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11864952,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
+            "MD5": "bcd57e61a14f511af3f3cc724be02384"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.9.5@jar",
+          "name": "Dynamic FPS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 191151,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar",
+            "MD5": "c2ef97d432f7a9291c7ebd47f704cc60"
+          }
+        },
+        {
+          "id": "fuzs.easyshulkerboxes:easyshulkerboxes:21.1.3@jar",
+          "name": "Easy Shulker Boxes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 212852,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/EasyShulkerBoxes-v21.1.3-1.21.1-Fabric.jar",
+            "MD5": "e87a10534c343bddb478709bbc59bfe0"
+          }
+        },
+        {
+          "id": "samebutdifferent.ecologics:ecologics:2.3.1@jar",
+          "name": "Ecologics",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2807027,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/ecologics-fabric-1.21.1-2.3.1.jar",
+            "MD5": "3951ade69026c48eb2e17b31282e210d"
+          }
+        },
+        {
+          "id": "net.darkhax.enchdesc.fabric.impl:enchdesc:21.1.9@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 83422,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/enchdesc-fabric-1.21.1-21.1.9.jar",
+            "MD5": "cb673f773a977affb64a003b79ed5116"
+          }
+        },
+        {
+          "id": "cn.foggyhillside:ends_delight:2.5.2+refabricated.1.21.1@jar",
+          "name": "End's Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 260235,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/ends_delight-2.5.2+refabricated.1.21.1.jar",
+            "MD5": "2b23e81635916167282d0be749a31300"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:3.0.1@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 471488,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/entity_model_features_1.21-fabric-3.0.1.jar",
+            "MD5": "65fa7e106c04b6811820c11ecd7ffb1f"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:7.0.2@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 697674,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/entity_texture_features_1.21-fabric-7.0.2.jar",
+            "MD5": "7801370edaf7b7f8e8e3818a8f1aa176"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.9.3@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 470161,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/entityculling-fabric-1.9.3-mc1.21.1.jar",
+            "MD5": "d5128d6312eaead8146c05ea3904c41a"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.115.1+1.21.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2401630,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/fabric-api-0.115.1+1.21.1.jar",
+            "MD5": "a62a96bb362598a0ff0f8d639b1bdd8d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.7+kotlin.2.2.21@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7479608,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+            "MD5": "89a977d6a4d7a84b8390f9143dd689f7"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.21.1-3.2.2+refabricated@jar",
+          "name": "Farmer's Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3129714,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/FarmersDelight-1.21.1-3.2.2+refabricated.jar",
+            "MD5": "1df65f28a7daa06d0d33082b262e9009"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:7.0.2-hotfix@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120709,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/ferritecore-7.0.2-hotfix-fabric.jar",
+            "MD5": "6d381efd51de1cbbdb8070d346f32555"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.1.5@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 632825,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/ForgeConfigAPIPort-v21.1.5-1.21.1-Fabric.jar",
+            "MD5": "cb7d6db3262909511e8fe0abc4e864e7"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:framework:0.13.1@jar",
+          "name": "Framework",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1578319,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/framework-fabric-1.21.1-0.13.1.jar",
+            "MD5": "868c894379cac8fead72d3b0b1e827cc"
+          }
+        },
+        {
+          "id": "me.fzzyhmstrs:fzzy_config:0.7.3+1.21@jar",
+          "name": "Fzzy Config",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2297886,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/fzzy_config-0.7.3+1.21.jar",
+            "MD5": "0c601ccee412a5f8c7c3353f2ce65359"
+          }
+        },
+        {
+          "id": "software.bernie:geckolib:4.7.3@jar",
           "name": "GeckoLib 4",
-          "type": "ForgeMod",
+          "type": "FabricMod",
           "artifact": {
-            "size": 1012500,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
-            "MD5": "b5e9905073787ed9ab392aaf22b65a40"
+            "size": 614236,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/geckolib-fabric-1.21.1-4.7.3.jar",
+            "MD5": "6ba715001d952885bc0334003a524390"
           }
         },
         {
-          "id": "mezz.jei:jei:15.20.0.106@jar",
+          "id": "elocindev.geckoanimfix:geckoanimfix:1.0.0@jar",
+          "name": "GeckoLibIrisCompat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6202,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/GeckoLibIrisCompat-Fabric-1.0.0.jar",
+            "MD5": "85f182bac71775e7ca47216f33523bc3"
+          }
+        },
+        {
+          "id": "generated.fabricmod:icommon-bundle:bundle@jar",
+          "name": "ICommonLib-bundle",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 631535,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/iCommon-Fabric-bundle.jar",
+            "MD5": "9daff2897f05d536c1616c8de86c8b09"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.6.7+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 228352,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/ImmediatelyFast-Fabric-1.6.7+1.21.1.jar",
+            "MD5": "6c725b062012c2ea67d7ddb9ef531d1c"
+          }
+        },
+        {
+          "id": "net.conczin:immersive_paintings:0.7.4@jar",
+          "name": "Immersive Paintings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5354723,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/immersive_paintings-fabric-1.21.1-0.7.4.jar",
+            "MD5": "eb26e96764eb26c15dff157a9e169cd2"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.35+mc1.21@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 105000,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/indium-1.0.35+mc1.21.jar",
+            "MD5": "db92c620cb72a41403b928a0b45955d0"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:2.2.1@jar",
+          "name": "Inventory Profiles Next",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1311198,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/InventoryProfilesNext-fabric-1.21.1-2.2.1.jar",
+            "MD5": "29e564f27abeba601fe8167b18ea7d00"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.0+mc1.21.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2675365,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/iris-fabric-1.8.0+mc1.21.1.jar",
+            "MD5": "332572bf2e29ea31693228f633699ebf"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:15.10.2+fabric@jar",
+          "name": "Jade",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 739001,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Jade-1.21.1-Fabric-15.10.2.jar",
+            "MD5": "bdf93c186ea0916547520c4f6e65a233"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:19.25.0.325@jar",
           "name": "Just Enough Items",
-          "type": "ForgeMod",
+          "type": "FabricMod",
           "artifact": {
-            "size": 1379220,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
-            "MD5": "245af433575aef3a47ae73492196018f"
+            "size": 1538422,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.25.0.325.jar",
+            "MD5": "8669a77d3da5beb57af74dcc31640b46"
           }
         },
         {
-          "id": "journeymap:journeymap:5.10.3@jar",
-          "name": "Journeymap",
-          "type": "ForgeMod",
+          "id": "net.satisfy:vinery:1.5.1@jar",
+          "name": "[Let's Do] Vinery",
+          "type": "FabricMod",
           "artifact": {
-            "size": 7160406,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
-            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
+            "size": 2982571,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/letsdo-vinery-fabric-1.5.1.jar",
+            "MD5": "7b6aa527c4bd1a0e58d7ed4dc897fe31"
           }
         },
         {
-          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.6.9+mc1.20.1@jar",
-          "name": "Korean Patch",
-          "type": "ForgeMod",
+          "id": "org.anti_ad.mc:libipn:6.6.1@jar",
+          "name": "LibIPN",
+          "type": "FabricMod",
           "artifact": {
-            "size": 190881,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/optionalon/koreanpatch-forge-1.6.9+mc1.20.1.jar",
-            "MD5": "c78341df23cc656d200cdd7202fd58a4"
-          },
-          "required": {
-            "value": false
+            "size": 632440,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/libIPN-fabric-1.21.1-6.6.1.jar",
+            "MD5": "27fdaadc86bb41bf3981895dd8af2ce3"
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
+          "id": "net.caffeinemc.mods:lithium:0.15.0+mc1.21.1@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
           "artifact": {
-            "size": 2831148,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
-          },
-          "required": {
-            "value": false
+            "size": 771768,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/lithium-fabric-0.15.0+mc1.21.1.jar",
+            "MD5": "319d83e396c1a1227bcb4451d79e3336"
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.3@jar",
+          "id": "net.luckystudio:cozyhome:1.1.15@jar",
+          "name": "Cozy Home",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3002296,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Luckys-Cozyhome-Refurnished-1.1.15.jar",
+            "MD5": "56e282166109830e67848238e7bba32a"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:modelfix:1.21-1.6@jar",
+          "name": "Model Gap Fix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 62761,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/modelfix-1.21-1.6-fabric.jar",
+            "MD5": "7bbde6d3602d01d925df77c79e6ae477"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.25.1+mc1.21.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 471258,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/modernfix-fabric-5.25.1+mc1.21.1.jar",
+            "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:11.0.3@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 973066,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
+            "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
+          }
+        },
+        {
+          "id": "com.axperty:moredelight:25.07.28-1.21-fabric@jar",
+          "name": "More Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 146946,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/moredelight-25.07.28-1.21-fabric.jar",
+            "MD5": "46568ad48f356d1b97f0859a618a3d11"
+          }
+        },
+        {
+          "id": "multiworld:multiworld-bundle:1.9@jar",
+          "name": "Multiworld-bundle",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 499999,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Multiworld-Fabric-bundle.jar",
+            "MD5": "1c2f28db51711b610b529a4f4bbe769e"
+          }
+        },
+        {
+          "id": "com.samgj15:nightlights:1.3.0@jar",
+          "name": "Night Lights",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 443108,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/nightlights-fabric-1.3.0.jar",
+            "MD5": "49641b69d45efebb8b855c3005422e5d"
+          }
+        },
+        {
+          "id": "io.github.steveplays28:noisium:2.3.0+mc1.21-1.21.1@jar",
+          "name": "Noisium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 216183,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+            "MD5": "22674fde60af855d5b1abb45c8ba8f94"
+          }
+        },
+        {
+          "id": "com.scouter:oceansdelight:fdrf-fabric-1.0.2-1.21@jar",
+          "name": "Ocean's Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 86464,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/oceansdelight-fdrf-fabric-1.0.2-1.21.jar",
+            "MD5": "cc9bc30d635f5e3b1ffd84109f1d8a72"
+          }
+        },
+        {
+          "id": "net.potionstudios:biomeswevegone:2.5.0@jar",
+          "name": "Oh The Biomes We've Gone",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20712840,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Oh-The-Biomes-Weve-Gone-Fabric-2.5.0.jar",
+            "MD5": "eee153b407496cf0ef5c178a56241c6c"
+          }
+        },
+        {
+          "id": "dev.corgitaco:ohthetreesyoullgrow:5.1.2@jar",
+          "name": "Oh The Trees You'll Grow",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 135553,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.1.2.jar",
+            "MD5": "6928cc2c3155ee67737c5be53e16d64d"
+          }
+        },
+        {
+          "id": "net.paladins:paladins:2.5.3+1.21.1@jar",
+          "name": "Paladins & Priests (RPG Series)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2447302,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/paladins-2.5.3+1.21.1.jar",
+            "MD5": "c782ec0810e37bf0b71a5cdc73d0f6bf"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.6@jar",
           "name": "Plasmo Voice",
-          "type": "ForgeMod",
+          "type": "FabricMod",
           "artifact": {
-            "size": 11913213,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
-            "MD5": "cb0f52b7f015a7483662a0afdbcf877c"
+            "size": 12213876,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/plasmovoice-fabric-1.21-2.1.6.jar",
+            "MD5": "5218ed97a0a5690d1fb0599e6337864a"
           }
         },
         {
-          "id": "net.mcreator.interpritation:thebrokenscript:1.9@jar",
-          "name": "The Broken Script",
-          "type": "ForgeMod",
+          "id": "dev.kosmx.playerAnim:playeranimator:2.0.1+1.21.1@jar",
+          "name": "Player Animator",
+          "type": "FabricMod",
           "artifact": {
-            "size": 90257821,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/forgemods/required/thebrokenscript-1.9.3-forge-1.20.1.jar",
-            "MD5": "a7a8f6805a4d95d3ae11567ec78d5fda"
+            "size": 204558,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/player-animation-lib-fabric-2.0.1+1.21.1.jar",
+            "MD5": "6efe48112aa8f6caa5680a3b69761d98"
           }
         },
         {
-          "id": "journeymap.minimap.config",
-          "name": "journeymap.minimap.config",
-          "type": "File",
+          "id": "net.darkhax.pricklemc.fabric.impl:prickle:21.1.11@jar",
+          "name": "PrickleMC",
+          "type": "FabricMod",
           "artifact": {
-            "size": 1713,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/journeymap/config/5.10/journeymap.minimap.config",
-            "path": "journeymap/config/5.10/journeymap.minimap.config"
+            "size": 87229,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/prickle-fabric-1.21.1-21.1.11.jar",
+            "MD5": "507c4368b9c2c19ad99b02413fe34865"
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
+          "id": "fuzs.puzzleslib.fabric.impl:puzzleslib:21.1.39@jar",
+          "name": "Puzzles Lib",
+          "type": "FabricMod",
           "artifact": {
-            "size": 285,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/options.txt",
-            "path": "options.txt"
+            "size": 1129192,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/PuzzlesLib-v21.1.39-1.21.1-Fabric.jar",
+            "MD5": "d1d6f7b512ef45941bf70ef36600a04d"
           }
         },
         {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
+          "id": "su.plo.voice.broadcast.server:pv-addon-broadcast:1.1.0@jar",
+          "name": "Pv-addon-broadcast",
+          "type": "FabricMod",
           "artifact": {
-            "size": 70,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/servers.dat",
-            "path": "servers.dat"
+            "size": 58461,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/pv-addon-broadcast-1.1.0.jar",
+            "MD5": "31aa133f084d9521456b522177a1aaf8"
           }
         },
         {
-          "id": "BSL_v8.2.09.zip",
-          "name": "BSL_v8.2.09.zip",
-          "type": "File",
+          "id": "su.plo.voice.sculk:pv-addon-sculk:1.1.0@jar",
+          "name": "Pv-addon-sculk",
+          "type": "FabricMod",
           "artifact": {
-            "size": 954784,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/BSL_v8.2.09.zip",
-            "MD5": "4443556b4e0d63394f0df1297e484454",
-            "path": "shaderpacks/BSL_v8.2.09.zip"
+            "size": 14035,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/pv-addon-sculk-1.1.0.jar",
+            "MD5": "f0b4a14a5e20eb512b847900f1822953"
           }
         },
         {
-          "id": "ComplementaryReimagined_r5.2.2.zip",
-          "name": "ComplementaryReimagined_r5.2.2.zip",
-          "type": "File",
+          "id": "su.plo.voice.soundphysics:pv-addon-soundphysics:1.1.2@jar",
+          "name": "Pv-addon-soundphysics",
+          "type": "FabricMod",
           "artifact": {
-            "size": 441683,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.2.zip",
-            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
-            "path": "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+            "size": 16176,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/pv-addon-soundphysics-1.1.2.jar",
+            "MD5": "11288e50e45acd4a8f463051c26840d8"
           }
         },
         {
-          "id": "ComplementaryUnbound_r5.2.2.zip",
-          "name": "ComplementaryUnbound_r5.2.2.zip",
-          "type": "File",
+          "id": "net.fabric_extras.ranged_weapon:ranged_weapon_api:2.3.2+1.21.1@jar",
+          "name": "RangedWeaponAPI",
+          "type": "FabricMod",
           "artifact": {
-            "size": 441687,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
-            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
-            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+            "size": 135586,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/ranged_weapon_api-fabric-2.3.2+1.21.1.jar",
+            "MD5": "9ab9a55255265bcd6ff688ab60df7578"
           }
         },
         {
-          "id": "MakeUp-UltraFast-9.0a.zip",
-          "name": "MakeUp-UltraFast-9.0a.zip",
-          "type": "File",
+          "id": "generated.fabricmod:reeses-sodium-options:1.8.0+mc1.21.3@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
           "artifact": {
-            "size": 357630,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/MakeUp-UltraFast-9.0a.zip",
-            "MD5": "84bb057ea44f792790c00d7aea5d5c47",
-            "path": "shaderpacks/MakeUp-UltraFast-9.0a.zip"
+            "size": 80972,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar",
+            "MD5": "1d9261cac0c95cfc77ce8029c13ae0df"
           }
         },
         {
-          "id": "Noble v1.7.3.zip",
-          "name": "Noble v1.7.3.zip",
-          "type": "File",
+          "id": "net.rogues:rogues:2.5.3+1.21.1@jar",
+          "name": "Rogues & Warriors (RPG Series)",
+          "type": "FabricMod",
           "artifact": {
-            "size": 11340594,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/Noble%20v1.7.3.zip",
-            "MD5": "fb18a1f3fc466e5d5d89e6e50ffe7745",
-            "path": "shaderpacks/Noble v1.7.3.zip"
+            "size": 849007,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/rogues-2.5.3+1.21.1.jar",
+            "MD5": "a06459e3c915d280a707d8f82b172558"
           }
         },
         {
-          "id": "Sildur's Vibrant Shaders v1.51 Lite.zip",
-          "name": "Sildur's Vibrant Shaders v1.51 Lite.zip",
-          "type": "File",
+          "id": "net.runes:runes:1.2.0+1.21.1@jar",
+          "name": "Runes",
+          "type": "FabricMod",
           "artifact": {
-            "size": 142247,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Lite.zip",
-            "MD5": "e6294fc113d73c384a9e88e722d1b6da",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip"
+            "size": 317955,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/runes-fabric-1.2.0+1.21.1.jar",
+            "MD5": "2ecd69be9d3e45500851ce7629dc283c"
           }
         },
         {
-          "id": "Sildur's Vibrant Shaders v1.51 Medium.zip",
-          "name": "Sildur's Vibrant Shaders v1.51 Medium.zip",
-          "type": "File",
+          "id": "generated.fabricmod:sodium-extra:0.6.0+mc1.21.1@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
           "artifact": {
-            "size": 142241,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
-            "MD5": "f2ac25e1dd3afb18344d18593b41e905",
-            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Medium.zip"
+            "size": 373661,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+            "MD5": "a2aa3212fe6397f39984b8c9e840956a"
           }
         },
         {
-          "id": "Solas Shader V2.3.zip",
-          "name": "Solas Shader V2.3.zip",
-          "type": "File",
+          "id": "net.caffeinemc.mods:sodium:0.6.0+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
           "artifact": {
-            "size": 1244539,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/Solas%20Shader%20V2.3.zip",
-            "MD5": "3f132e37c38cf7f145ca5bc186fe2aff",
-            "path": "shaderpacks/Solas Shader V2.3.zip"
+            "size": 1281394,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/sodium-fabric-0.6.0+mc1.21.1.jar",
+            "MD5": "7b39f46f26eaef7a1d7026a2b7c99289"
           }
         },
         {
-          "id": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip",
-          "name": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip",
-          "type": "File",
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.21.1-1.4.10@jar",
+          "name": "Sound Physics Remastered",
+          "type": "FabricMod",
           "artifact": {
-            "size": 3184524,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/YT_TheDawnEra-1.20.1/files/shaderpacks/%C2%A7r%C2%A7lAstra%C2%A74%C2%A7lLex%C2%A7r%C2%A7l_By_LexBoosT_%C2%A74%C2%A7lV93.0%C2%A7r%C2%A7l.zip",
-            "MD5": "021c95bd3d217b4a7e45997d5127285b",
-            "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
+            "size": 202561,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
+            "MD5": "9920768591c7dfb41bc3cd3fd2393828"
+          }
+        },
+        {
+          "id": "net.spell_engine:spell_engine:1.7.3+1.21.1@jar",
+          "name": "Spell Engine",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3135169,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/spell_engine-1.7.3+1.21.1.jar",
+            "MD5": "494643f219acdfca3196d71116f2e2b6"
+          }
+        },
+        {
+          "id": "net.spell_power:spell_power:1.4.4+1.21.1@jar",
+          "name": "Spell Power Attribute",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 198453,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/spell_power-fabric-1.4.4+1.21.1.jar",
+            "MD5": "f3eab54ade4c3db25c61d60553f71817"
+          }
+        },
+        {
+          "id": "com.axperty:storagedelight:25.06.24-1.21-fabric@jar",
+          "name": "Storage Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 487799,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/storagedelight-25.06.24-1.21-fabric.jar",
+            "MD5": "8f917259d4faec0c226ecadb50cc416b"
+          }
+        },
+        {
+          "id": "net.fabric_extras.structure_pool:structure_pool_api:1.2.1+1.21.1@jar",
+          "name": "Structure Pool API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 140933,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/structure_pool_api-fabric-1.2.1+1.21.1.jar",
+            "MD5": "4da9952c0d35638a45915a52a23b0ffd"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18+a@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 572596,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar",
+            "MD5": "95d9daeca0b1492175c12765c5fec9d9"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:4.1.0.8@jar",
+          "name": "TerraBlender",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 337990,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+            "MD5": "c82218938313a31a2e7d55028fe97e3a"
+          }
+        },
+        {
+          "id": "dev.emi:trinkets:3.10.0@jar",
+          "name": "Trinkets",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 272944,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/trinkets-3.10.0.jar",
+            "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1"
+          }
+        },
+        {
+          "id": "net.wizards:wizards:2.5.2+1.21.1@jar",
+          "name": "Wizards (RPG Series)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2971236,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/wizards-2.5.2+1.21.1.jar",
+            "MD5": "c2066e0557fd4e5088bf6afb8caf4fbc"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.2.10@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1745107,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+            "MD5": "73c845d833c030f1b38363b5d4252ff7"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.12@jar",
+          "name": "Xaero's World Map",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 976417,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/XaerosWorldMap_1.39.12_Fabric_1.21.jar",
+            "MD5": "f88bd9beac4d18a02e4c9e7a5ad8c212"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.21.1-Fabric-5.1.6@jar",
+          "name": "YUNG's API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1257492,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/YungsApi-1.21.1-Fabric-5.1.6.jar",
+            "MD5": "117aa2db815986b1346ff6464d99aa6f"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.21.1-Fabric-5.1.4@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 909660,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+            "MD5": "dd05e407c3c2d2a0090eb713a15ac49a"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.21.1-Fabric-5.1.1@jar",
+          "name": "YUNG's Better Mineshafts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 615927,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+            "MD5": "f537ac7481a2a6a3164082a93f8691af"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.21.1-Fabric-5.1.3@jar",
+          "name": "YUNG's Better Strongholds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 587855,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/required/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+            "MD5": "d480ea480d47cf731cd00c39abfae160"
           }
         }
       ]
