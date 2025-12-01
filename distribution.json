@@ -727,6 +727,19 @@
           }
         },
         {
+          "id": "dev.corgitaco:ohthetreesyoullgrow:5.1.2@jar",
+          "name": "Oh The Trees You'll Grow",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 135553,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/optionalon/Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.1.2.jar",
+            "MD5": "6928cc2c3155ee67737c5be53e16d64d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.paladins:paladins:2.6.4+1.21.1@jar",
           "name": "Paladins & Priests (RPG Series)",
           "type": "FabricMod",
@@ -916,6 +929,19 @@
             "size": 3191445,
             "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/optionalon/spell_engine-fabric-1.8.16+1.21.1.jar",
             "MD5": "f63539e82956efabbcd5e4c95d5b64d3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.spell_power:spell_power:1.4.5+1.21.1@jar",
+          "name": "Spell Power Attribute",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 200585,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage-1.21.1/fabricmods/optionalon/spell_power-fabric-1.4.5+1.21.1.jar",
+            "MD5": "3612bb16c0243703070471901621fe10"
           },
           "required": {
             "value": false
