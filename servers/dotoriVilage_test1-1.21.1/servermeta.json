@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/YT_Clan/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "도토리 마을",
+    "description": "Minecraft 1.21.1 (Fabric v0.17.3)",
+    "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
+    "address": "mc.gotiger.dev:20203",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.3"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt", "config/**"]
+    }
+  ]
+}
