@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/YT_Clan/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "0.0.1",
     "name": "도토리 마을",
     "description": "Minecraft 1.21.1 (Fabric v0.17.3)",
     "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
