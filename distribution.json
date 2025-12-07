@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "dotoriVilage_test1-1.21.1",
+      "id": "dotoriVilage_test2-1.21.1",
       "name": "도토리 마을",
       "description": "Minecraft 1.21.1 (Fabric v0.17.3)",
       "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1082585,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/appleskin-fabric-mc1.21-3.0.6.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/appleskin-fabric-mc1.21-3.0.6.jar",
             "MD5": "a24c435e84973afd607e20395ecba19d"
           },
           "required": {
@@ -134,7 +134,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 720921,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/archers-fabric-2.6.8+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/archers-fabric-2.6.8+1.21.1.jar",
             "MD5": "9a9a8d59444a77d1b5305003f5e90b2c"
           },
           "required": {
@@ -147,7 +147,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 600915,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/architectury-13.0.8-fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/architectury-13.0.8-fabric.jar",
             "MD5": "702e92d09a4855c6c8aa9e738a48efa4"
           },
           "required": {
@@ -160,7 +160,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1186837,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/arsenal-fabric-1.3.3+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/arsenal-fabric-1.3.3+1.21.1.jar",
             "MD5": "da9cf05c036b05ea185e26da2f0f7171"
           },
           "required": {
@@ -173,7 +173,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 582791,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/azurelibarmor-fabric-1.21.1-3.1.2.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/azurelibarmor-fabric-1.21.1-3.1.2.jar",
             "MD5": "5457e3ba421fde7a1b143f9b1cb43576"
           },
           "required": {
@@ -186,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 813783,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/bettercombat-fabric-2.2.5+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/bettercombat-fabric-2.2.5+1.21.1.jar",
             "MD5": "3f88ae8309489dd9b78f0d4ca0e02aea"
           },
           "required": {
@@ -199,7 +199,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2679483,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/BOMD-1.10.2-1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/BOMD-1.10.2-1.21.1.jar",
             "MD5": "2fd7ad69c49f57c79cd444de64513a3c"
           },
           "required": {
@@ -212,7 +212,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 322686,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/bookshelf-fabric-1.21.1-21.1.78.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/bookshelf-fabric-1.21.1-21.1.78.jar",
             "MD5": "ac5144dbf2ae4f9ae1b46d8d6a81fd03"
           },
           "required": {
@@ -225,7 +225,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 229645,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/cardinal-components-api-6.1.3.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/cardinal-components-api-6.1.3.jar",
             "MD5": "8febe13b1c2df1e90a6fa8b5de8521a4"
           },
           "required": {
@@ -238,7 +238,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 249215,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/CerbonsAPI-Fabric-1.21-1.3.0.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/CerbonsAPI-Fabric-1.21-1.3.0.jar",
             "MD5": "2949d644a5ad7f17f05240fb383c59fd"
           },
           "required": {
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1020226,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/chatheads-0.4+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/chatheads-0.4+1.21.1.jar",
             "MD5": "8412c0e67e4c6c2d7bfefd43947d7d53"
           },
           "required": {
@@ -264,7 +264,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 342979,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/Chunky-Fabric-1.4.23.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/Chunky-Fabric-1.4.23.jar",
             "MD5": "2f9ea1108ade07fc89d8e75a9510163c"
           },
           "required": {
@@ -277,7 +277,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1157166,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/cloth-config-15.0.140-fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/cloth-config-15.0.140-fabric.jar",
             "MD5": "a2c091b027ad6ba8e54b07020fd45884"
           },
           "required": {
@@ -290,7 +290,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20723,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/Clumps-fabric-1.21.1-19.0.0.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/Clumps-fabric-1.21.1-19.0.0.1.jar",
             "MD5": "8715713c6b63565a5eafb4c925275035"
           },
           "required": {
@@ -303,7 +303,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1014044,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/continuity-3.0.0+1.21.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/continuity-3.0.0+1.21.jar",
             "MD5": "daee3841730e2576a621943f289deadb"
           },
           "required": {
@@ -316,7 +316,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 691375,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/Corgilib-Fabric-1.21.1-5.0.0.7.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/Corgilib-Fabric-1.21.1-5.0.0.7.jar",
             "MD5": "136602b14734a1b5bc6d9ebb50add43f"
           },
           "required": {
@@ -329,7 +329,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 154855,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/cratedelight-25.09.22-1.21-fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/cratedelight-25.09.22-1.21-fabric.jar",
             "MD5": "e1c57df58eef3d447bf19dccccb93ef9"
           },
           "required": {
@@ -342,7 +342,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 427923,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/cristellib-fabric-1.2.8.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/cristellib-fabric-1.2.8.jar",
             "MD5": "e97bdff5eb0877341d7bc212e77d274f"
           },
           "required": {
@@ -355,7 +355,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11864952,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
             "MD5": "bcd57e61a14f511af3f3cc724be02384"
           },
           "required": {
@@ -368,8 +368,21 @@
           "type": "FabricMod",
           "artifact": {
             "size": 191151,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar",
             "MD5": "c2ef97d432f7a9291c7ebd47f704cc60"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc.bundle:easy_npc_bundle:${version}@jar",
+          "name": "Easy NPC (Bundle)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1945262,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/easy_npc_bundle-6.1.0-fabric-1.21.1.jar",
+            "MD5": "9726f88728cbd50228f4e1c5c4dea061"
           },
           "required": {
             "value": false
@@ -381,7 +394,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 212852,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/EasyShulkerBoxes-v21.1.3-1.21.1-Fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/EasyShulkerBoxes-v21.1.3-1.21.1-Fabric.jar",
             "MD5": "e87a10534c343bddb478709bbc59bfe0"
           },
           "required": {
@@ -394,7 +407,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2807027,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/ecologics-fabric-1.21.1-2.3.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/ecologics-fabric-1.21.1-2.3.1.jar",
             "MD5": "3951ade69026c48eb2e17b31282e210d"
           },
           "required": {
@@ -407,7 +420,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 83422,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/enchdesc-fabric-1.21.1-21.1.9.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/enchdesc-fabric-1.21.1-21.1.9.jar",
             "MD5": "cb673f773a977affb64a003b79ed5116"
           },
           "required": {
@@ -420,7 +433,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 260235,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/ends_delight-2.5.2+refabricated.1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/ends_delight-2.5.2+refabricated.1.21.1.jar",
             "MD5": "2b23e81635916167282d0be749a31300"
           },
           "required": {
@@ -433,7 +446,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 475401,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/entity_model_features_1.21-fabric-3.0.7.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/entity_model_features_1.21-fabric-3.0.7.jar",
             "MD5": "b0b5d45f4b8e3a4c9b14f2e4e657f4dc"
           },
           "required": {
@@ -446,7 +459,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 754004,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/entity_texture_features_1.21-fabric-7.0.6.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/entity_texture_features_1.21-fabric-7.0.6.jar",
             "MD5": "cd75ec9679ae393c9bccf63eb703ec46"
           },
           "required": {
@@ -459,7 +472,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 470161,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/entityculling-fabric-1.9.3-mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/entityculling-fabric-1.9.3-mc1.21.1.jar",
             "MD5": "d5128d6312eaead8146c05ea3904c41a"
           },
           "required": {
@@ -472,7 +485,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2423497,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/fabric-api-0.116.4+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/fabric-api-0.116.4+1.21.1.jar",
             "MD5": "aa1660d1af25eb18790182753f977615"
           },
           "required": {
@@ -485,7 +498,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7479608,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
             "MD5": "89a977d6a4d7a84b8390f9143dd689f7"
           },
           "required": {
@@ -498,7 +511,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3129714,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/FarmersDelight-1.21.1-3.2.2+refabricated.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/FarmersDelight-1.21.1-3.2.2+refabricated.jar",
             "MD5": "1df65f28a7daa06d0d33082b262e9009"
           },
           "required": {
@@ -511,7 +524,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 120709,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/ferritecore-7.0.2-hotfix-fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/ferritecore-7.0.2-hotfix-fabric.jar",
             "MD5": "6d381efd51de1cbbdb8070d346f32555"
           },
           "required": {
@@ -524,7 +537,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 633065,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
             "MD5": "eba1a7f9d9976e983a2b9eb5e915e087"
           },
           "required": {
@@ -537,7 +550,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 302794,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/framework-forge-1.20.1-0.7.6.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/framework-forge-1.20.1-0.7.6.jar",
             "MD5": "893efb834cfc0b4ff518ad88897d4ba1"
           },
           "required": {
@@ -550,7 +563,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2297886,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/fzzy_config-0.7.3+1.21.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/fzzy_config-0.7.3+1.21.jar",
             "MD5": "0c601ccee412a5f8c7c3353f2ce65359"
           },
           "required": {
@@ -563,7 +576,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 652999,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/geckolib-fabric-1.21.1-4.8.2.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/geckolib-fabric-1.21.1-4.8.2.jar",
             "MD5": "ffc6f43330ed0481a5c110e874310c7f"
           },
           "required": {
@@ -576,7 +589,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 898061,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/iCommon-Fabric-bundle.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/iCommon-Fabric-bundle.jar",
             "MD5": "b7dc9dce2631c71762ac23d685b2d793"
           },
           "required": {
@@ -589,7 +602,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5354723,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/immersive_paintings-fabric-1.21.1-0.7.4.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/immersive_paintings-fabric-1.21.1-0.7.4.jar",
             "MD5": "eb26e96764eb26c15dff157a9e169cd2"
           },
           "required": {
@@ -602,7 +615,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 105000,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/indium-1.0.35+mc1.21.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/indium-1.0.35+mc1.21.jar",
             "MD5": "db92c620cb72a41403b928a0b45955d0"
           },
           "required": {
@@ -615,7 +628,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1311198,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/InventoryProfilesNext-fabric-1.21.1-2.2.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/InventoryProfilesNext-fabric-1.21.1-2.2.1.jar",
             "MD5": "29e564f27abeba601fe8167b18ea7d00"
           },
           "required": {
@@ -628,7 +641,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2675365,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/iris-fabric-1.8.0+mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/iris-fabric-1.8.0+mc1.21.1.jar",
             "MD5": "332572bf2e29ea31693228f633699ebf"
           },
           "required": {
@@ -641,7 +654,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1548978,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/jei-1.21.1-fabric-19.25.1.332.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/jei-1.21.1-fabric-19.25.1.332.jar",
             "MD5": "8f58bbb57822d9e63104e56e7f426222"
           },
           "required": {
@@ -654,7 +667,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3564300,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
             "MD5": "30012982dc1580f49e3c1569dc059203"
           },
           "required": {
@@ -667,7 +680,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 585281,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/koreanpatch-fabric-1.9.3+mc1.21.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/koreanpatch-fabric-1.9.3+mc1.21.jar",
             "MD5": "aa83eb617e96abd493d10ded48ddc0c4"
           },
           "required": {
@@ -680,7 +693,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2983515,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/letsdo-vinery-fabric-1.5.2.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/letsdo-vinery-fabric-1.5.2.jar",
             "MD5": "eb102661e7644455856e70ef7dcb02e8"
           },
           "required": {
@@ -693,7 +706,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 632440,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/libIPN-fabric-1.21.1-6.6.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/libIPN-fabric-1.21.1-6.6.1.jar",
             "MD5": "27fdaadc86bb41bf3981895dd8af2ce3"
           },
           "required": {
@@ -706,7 +719,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 772848,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/lithium-fabric-0.15.1+mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/lithium-fabric-0.15.1+mc1.21.1.jar",
             "MD5": "80e7fc6c2cbeb0e097f8a25880ccd0a8"
           },
           "required": {
@@ -719,7 +732,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3121070,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/Luckys-Cozyhome-Refurnished-1.1.20.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/Luckys-Cozyhome-Refurnished-1.1.20.jar",
             "MD5": "c432cd0ce7f8dc715acd559d44d524cf"
           },
           "required": {
@@ -732,7 +745,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 62761,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/modelfix-1.21-1.6-fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/modelfix-1.21-1.6-fabric.jar",
             "MD5": "7bbde6d3602d01d925df77c79e6ae477"
           },
           "required": {
@@ -745,7 +758,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 471258,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/modernfix-fabric-5.25.1+mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/modernfix-fabric-5.25.1+mc1.21.1.jar",
             "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b"
           },
           "required": {
@@ -758,7 +771,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 973066,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/modmenu-11.0.3.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/modmenu-11.0.3.jar",
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
           },
           "required": {
@@ -771,7 +784,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 146946,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/moredelight-25.07.28-1.21-fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/moredelight-25.07.28-1.21-fabric.jar",
             "MD5": "46568ad48f356d1b97f0859a618a3d11"
           },
           "required": {
@@ -784,7 +797,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 960836,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/Multiworld-Fabric-bundle%20(4).jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/Multiworld-Fabric-bundle%20(4).jar",
             "MD5": "b906175c9a98a79d63d1b3f0f86f35ea"
           },
           "required": {
@@ -797,7 +810,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 234884,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/Neat-1.21-40-FABRIC.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/Neat-1.21-40-FABRIC.jar",
             "MD5": "57233d71c4a59e45fa16c09c0b31d173"
           },
           "required": {
@@ -810,7 +823,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 443108,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/nightlights-fabric-1.3.0.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/nightlights-fabric-1.3.0.jar",
             "MD5": "49641b69d45efebb8b855c3005422e5d"
           },
           "required": {
@@ -823,7 +836,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 309410,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
             "MD5": "2dce5b67904bc681b1a166b49e66efdc"
           },
           "required": {
@@ -836,7 +849,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 216183,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
             "MD5": "22674fde60af855d5b1abb45c8ba8f94"
           },
           "required": {
@@ -849,7 +862,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 86464,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/oceansdelight-fdrf-fabric-1.0.2-1.21.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/oceansdelight-fdrf-fabric-1.0.2-1.21.jar",
             "MD5": "cc9bc30d635f5e3b1ffd84109f1d8a72"
           },
           "required": {
@@ -862,7 +875,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20711445,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/Oh-The-Biomes-Weve-Gone-Fabric-2.5.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/Oh-The-Biomes-Weve-Gone-Fabric-2.5.1.jar",
             "MD5": "71cf4373fcef8027618a6711c27b8259"
           },
           "required": {
@@ -875,7 +888,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 135553,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.1.2.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.1.2.jar",
             "MD5": "6928cc2c3155ee67737c5be53e16d64d"
           },
           "required": {
@@ -888,7 +901,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2473012,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/paladins-fabric-2.6.4+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/paladins-fabric-2.6.4+1.21.1.jar",
             "MD5": "580bc6e7fb6fa21d09e2c41a12f2a2ba"
           },
           "required": {
@@ -901,7 +914,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12213876,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/plasmovoice-fabric-1.21-2.1.6.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/plasmovoice-fabric-1.21-2.1.6.jar",
             "MD5": "5218ed97a0a5690d1fb0599e6337864a"
           },
           "required": {
@@ -914,7 +927,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 204558,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/player-animation-lib-fabric-2.0.1+1.21.1%20(1).jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/player-animation-lib-fabric-2.0.1+1.21.1%20(1).jar",
             "MD5": "6efe48112aa8f6caa5680a3b69761d98"
           },
           "required": {
@@ -927,7 +940,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 87229,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/prickle-fabric-1.21.1-21.1.11.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/prickle-fabric-1.21.1-21.1.11.jar",
             "MD5": "507c4368b9c2c19ad99b02413fe34865"
           },
           "required": {
@@ -940,7 +953,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1129192,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/PuzzlesLib-v21.1.39-1.21.1-Fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/PuzzlesLib-v21.1.39-1.21.1-Fabric.jar",
             "MD5": "d1d6f7b512ef45941bf70ef36600a04d"
           },
           "required": {
@@ -953,7 +966,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 58461,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/pv-addon-broadcast-1.1.0.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/pv-addon-broadcast-1.1.0.jar",
             "MD5": "31aa133f084d9521456b522177a1aaf8"
           },
           "required": {
@@ -966,7 +979,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14035,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/pv-addon-sculk-1.1.0.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/pv-addon-sculk-1.1.0.jar",
             "MD5": "f0b4a14a5e20eb512b847900f1822953"
           },
           "required": {
@@ -979,7 +992,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 16176,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/pv-addon-soundphysics-1.1.2.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/pv-addon-soundphysics-1.1.2.jar",
             "MD5": "11288e50e45acd4a8f463051c26840d8"
           },
           "required": {
@@ -992,7 +1005,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 135586,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/ranged_weapon_api-fabric-2.3.2+1.21.1%20(1).jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/ranged_weapon_api-fabric-2.3.2+1.21.1%20(1).jar",
             "MD5": "9ab9a55255265bcd6ff688ab60df7578"
           },
           "required": {
@@ -1005,7 +1018,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80972,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar",
             "MD5": "1d9261cac0c95cfc77ce8029c13ae0df"
           },
           "required": {
@@ -1018,7 +1031,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 849007,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/rogues-2.5.3+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/rogues-2.5.3+1.21.1.jar",
             "MD5": "a06459e3c915d280a707d8f82b172558"
           },
           "required": {
@@ -1031,7 +1044,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 872299,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/rogues-fabric-2.6.4+1.21.1%20(1).jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/rogues-fabric-2.6.4+1.21.1%20(1).jar",
             "MD5": "15d02e70fa4a73f2d23c6169182e0a3b"
           },
           "required": {
@@ -1044,7 +1057,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 317312,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/runes-fabric-1.2.1+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/runes-fabric-1.2.1+1.21.1.jar",
             "MD5": "b80448537036b5342b657934f2f29680"
           },
           "required": {
@@ -1057,7 +1070,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 373661,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
             "MD5": "a2aa3212fe6397f39984b8c9e840956a"
           },
           "required": {
@@ -1070,7 +1083,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1281394,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.0+mc1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.0+mc1.21.1.jar",
             "MD5": "7b39f46f26eaef7a1d7026a2b7c99289"
           },
           "required": {
@@ -1083,7 +1096,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 202561,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/sound-physics-remastered-fabric-1.21.1-1.4.10.jar",
             "MD5": "9920768591c7dfb41bc3cd3fd2393828"
           },
           "required": {
@@ -1096,7 +1109,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3191445,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/spell_engine-fabric-1.8.16+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/spell_engine-fabric-1.8.16+1.21.1.jar",
             "MD5": "f63539e82956efabbcd5e4c95d5b64d3"
           },
           "required": {
@@ -1109,7 +1122,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 200585,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/spell_power-fabric-1.4.5+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/spell_power-fabric-1.4.5+1.21.1.jar",
             "MD5": "3612bb16c0243703070471901621fe10"
           },
           "required": {
@@ -1122,7 +1135,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 487799,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/storagedelight-25.06.24-1.21-fabric.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/storagedelight-25.06.24-1.21-fabric.jar",
             "MD5": "8f917259d4faec0c226ecadb50cc416b"
           },
           "required": {
@@ -1135,7 +1148,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 140933,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/structure_pool_api-fabric-1.2.1+1.21.1%20(1).jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/structure_pool_api-fabric-1.2.1+1.21.1%20(1).jar",
             "MD5": "4da9952c0d35638a45915a52a23b0ffd"
           },
           "required": {
@@ -1148,7 +1161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 572596,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar",
             "MD5": "95d9daeca0b1492175c12765c5fec9d9"
           },
           "required": {
@@ -1161,7 +1174,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 337990,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
             "MD5": "c82218938313a31a2e7d55028fe97e3a"
           },
           "required": {
@@ -1174,7 +1187,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 272944,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/trinkets-3.10.0%20(1).jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/trinkets-3.10.0%20(1).jar",
             "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1"
           },
           "required": {
@@ -1187,7 +1200,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12048948,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/ver3_DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/ver3_DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
             "MD5": "c322a141a87c5b387358419cc63c5d22"
           },
           "required": {
@@ -1200,7 +1213,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2858983,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/wizards-fabric-2.6.5+1.21.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/wizards-fabric-2.6.5+1.21.1.jar",
             "MD5": "f505a02f66b889144a2cedfc39a935c9"
           },
           "required": {
@@ -1213,7 +1226,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1257492,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/YungsApi-1.21.1-Fabric-5.1.6.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/YungsApi-1.21.1-Fabric-5.1.6.jar",
             "MD5": "117aa2db815986b1346ff6464d99aa6f"
           },
           "required": {
@@ -1226,7 +1239,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 909660,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
             "MD5": "dd05e407c3c2d2a0090eb713a15ac49a"
           },
           "required": {
@@ -1239,7 +1252,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 615927,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
             "MD5": "f537ac7481a2a6a3164082a93f8691af"
           },
           "required": {
@@ -1252,7 +1265,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 587855,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/fabricmods/optionalon/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/fabricmods/optionalon/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
             "MD5": "d480ea480d47cf731cd00c39abfae160"
           },
           "required": {
@@ -1265,7 +1278,7 @@
           "type": "File",
           "artifact": {
             "size": 1327,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/appleskin.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/appleskin.json5",
             "path": "config/appleskin.json5"
           }
         },
@@ -1275,7 +1288,7 @@
           "type": "File",
           "artifact": {
             "size": 664,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/archers/effects.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/archers/effects.json",
             "path": "config/archers/effects.json"
           }
         },
@@ -1285,7 +1298,7 @@
           "type": "File",
           "artifact": {
             "size": 5915,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/archers/equipment.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/archers/equipment.json",
             "path": "config/archers/equipment.json"
           }
         },
@@ -1295,7 +1308,7 @@
           "type": "File",
           "artifact": {
             "size": 82,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/archers/tweaks.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/archers/tweaks.json",
             "path": "config/archers/tweaks.json"
           }
         },
@@ -1305,7 +1318,7 @@
           "type": "File",
           "artifact": {
             "size": 1743,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/archers/villages.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/archers/villages.json",
             "path": "config/archers/villages.json"
           }
         },
@@ -1315,7 +1328,7 @@
           "type": "File",
           "artifact": {
             "size": 4887,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/armourers_workshop-client.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/armourers_workshop-client.toml",
             "path": "config/armourers_workshop-client.toml"
           }
         },
@@ -1325,7 +1338,7 @@
           "type": "File",
           "artifact": {
             "size": 5650,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/armourers_workshop-common.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/armourers_workshop-common.toml",
             "path": "config/armourers_workshop-common.toml"
           }
         },
@@ -1335,7 +1348,7 @@
           "type": "File",
           "artifact": {
             "size": 2178,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/arsenal/effects.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/arsenal/effects.json",
             "path": "config/arsenal/effects.json"
           }
         },
@@ -1345,7 +1358,7 @@
           "type": "File",
           "artifact": {
             "size": 6440,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/arsenal/equipment_v2.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/arsenal/equipment_v2.json",
             "path": "config/arsenal/equipment_v2.json"
           }
         },
@@ -1355,7 +1368,7 @@
           "type": "File",
           "artifact": {
             "size": 783,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/arsenal/ranged_weapons.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/arsenal/ranged_weapons.json",
             "path": "config/arsenal/ranged_weapons.json"
           }
         },
@@ -1365,7 +1378,7 @@
           "type": "File",
           "artifact": {
             "size": 1102,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/arsenal/shields.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/arsenal/shields.json",
             "path": "config/arsenal/shields.json"
           }
         },
@@ -1375,7 +1388,7 @@
           "type": "File",
           "artifact": {
             "size": 9267,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/axiom/.axiom.json.backup",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/axiom/.axiom.json.backup",
             "MD5": "7e90b73ee01f0ab138e820f79a228c6e",
             "path": "config/axiom/.axiom.json.backup"
           }
@@ -1386,7 +1399,7 @@
           "type": "File",
           "artifact": {
             "size": 9267,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/axiom/axiom.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/axiom/axiom.json",
             "path": "config/axiom/axiom.json"
           }
         },
@@ -1396,7 +1409,7 @@
           "type": "File",
           "artifact": {
             "size": 1966,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/axiom/imgui.ini",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/axiom/imgui.ini",
             "path": "config/axiom/imgui.ini"
           }
         },
@@ -1406,7 +1419,7 @@
           "type": "File",
           "artifact": {
             "size": 1163406,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/axiom/translations.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/axiom/translations.zip",
             "path": "config/axiom/translations.zip"
           }
         },
@@ -1416,7 +1429,7 @@
           "type": "File",
           "artifact": {
             "size": 656,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/bettercombat/client.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/bettercombat/client.json5",
             "path": "config/bettercombat/client.json5"
           }
         },
@@ -1426,7 +1439,7 @@
           "type": "File",
           "artifact": {
             "size": 2995,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/bettercombat/fallback_compatibility.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/bettercombat/fallback_compatibility.json",
             "path": "config/bettercombat/fallback_compatibility.json"
           }
         },
@@ -1436,7 +1449,7 @@
           "type": "File",
           "artifact": {
             "size": 5792,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/bettercombat/server.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/bettercombat/server.json5",
             "path": "config/bettercombat/server.json5"
           }
         },
@@ -1446,7 +1459,7 @@
           "type": "File",
           "artifact": {
             "size": 418,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/betterdungeons-fabric-1_21.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/betterdungeons-fabric-1_21.toml",
             "path": "config/betterdungeons-fabric-1_21.toml"
           }
         },
@@ -1456,7 +1469,7 @@
           "type": "File",
           "artifact": {
             "size": 595,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/bettermineshafts-fabric-1_21.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/bettermineshafts-fabric-1_21.toml",
             "path": "config/bettermineshafts-fabric-1_21.toml"
           }
         },
@@ -1466,7 +1479,7 @@
           "type": "File",
           "artifact": {
             "size": 1391,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/betterstrongholds/fabric-1_21/armorstands.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/betterstrongholds/fabric-1_21/armorstands.json",
             "path": "config/betterstrongholds/fabric-1_21/armorstands.json"
           }
         },
@@ -1476,7 +1489,7 @@
           "type": "File",
           "artifact": {
             "size": 920,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/betterstrongholds/fabric-1_21/itemframes.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/betterstrongholds/fabric-1_21/itemframes.json",
             "path": "config/betterstrongholds/fabric-1_21/itemframes.json"
           }
         },
@@ -1486,7 +1499,7 @@
           "type": "File",
           "artifact": {
             "size": 346,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/betterstrongholds/fabric-1_21/ores.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/betterstrongholds/fabric-1_21/ores.json",
             "path": "config/betterstrongholds/fabric-1_21/ores.json"
           }
         },
@@ -1496,7 +1509,7 @@
           "type": "File",
           "artifact": {
             "size": 238,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/betterstrongholds/fabric-1_21/rareblocks.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/betterstrongholds/fabric-1_21/rareblocks.json",
             "path": "config/betterstrongholds/fabric-1_21/rareblocks.json"
           }
         },
@@ -1506,7 +1519,7 @@
           "type": "File",
           "artifact": {
             "size": 2817,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/betterstrongholds/fabric-1_21/README.txt",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/betterstrongholds/fabric-1_21/README.txt",
             "path": "config/betterstrongholds/fabric-1_21/README.txt"
           }
         },
@@ -1516,7 +1529,7 @@
           "type": "File",
           "artifact": {
             "size": 710,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/betterstrongholds/README.txt",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/betterstrongholds/README.txt",
             "path": "config/betterstrongholds/README.txt"
           }
         },
@@ -1526,7 +1539,7 @@
           "type": "File",
           "artifact": {
             "size": 86,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/betterstrongholds-fabric-1_21.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/betterstrongholds-fabric-1_21.toml",
             "path": "config/betterstrongholds-fabric-1_21.toml"
           }
         },
@@ -1536,7 +1549,7 @@
           "type": "File",
           "artifact": {
             "size": 494,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/biomeswevegone/misc.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/biomeswevegone/misc.json",
             "path": "config/biomeswevegone/misc.json"
           }
         },
@@ -1546,7 +1559,7 @@
           "type": "File",
           "artifact": {
             "size": 62,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/biomeswevegone/mob_spawn.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/biomeswevegone/mob_spawn.json",
             "path": "config/biomeswevegone/mob_spawn.json"
           }
         },
@@ -1556,7 +1569,7 @@
           "type": "File",
           "artifact": {
             "size": 639,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/biomeswevegone/trades.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/biomeswevegone/trades.json",
             "path": "config/biomeswevegone/trades.json"
           }
         },
@@ -1566,7 +1579,7 @@
           "type": "File",
           "artifact": {
             "size": 2942,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/biomeswevegone/world_generation.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/biomeswevegone/world_generation.json5",
             "path": "config/biomeswevegone/world_generation.json5"
           }
         },
@@ -1576,7 +1589,7 @@
           "type": "File",
           "artifact": {
             "size": 1439,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/bosses_of_mass_destruction.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/bosses_of_mass_destruction.json5",
             "path": "config/bosses_of_mass_destruction.json5"
           }
         },
@@ -1586,7 +1599,7 @@
           "type": "File",
           "artifact": {
             "size": 452,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/cardinal-components-api.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/cardinal-components-api.properties",
             "path": "config/cardinal-components-api.properties"
           }
         },
@@ -1596,7 +1609,7 @@
           "type": "File",
           "artifact": {
             "size": 122,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/continuity.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/continuity.json",
             "path": "config/continuity.json"
           }
         },
@@ -1606,7 +1619,7 @@
           "type": "File",
           "artifact": {
             "size": 362,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/corgilib/announcement_config.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/corgilib/announcement_config.json5",
             "path": "config/corgilib/announcement_config.json5"
           }
         },
@@ -1616,7 +1629,7 @@
           "type": "File",
           "artifact": {
             "size": 1476,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/cristellib/minecraftED.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/cristellib/minecraftED.json5",
             "path": "config/cristellib/minecraftED.json5"
           }
         },
@@ -1626,7 +1639,7 @@
           "type": "File",
           "artifact": {
             "size": 1752,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/cristellib/minecraftP.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/cristellib/minecraftP.json5",
             "path": "config/cristellib/minecraftP.json5"
           }
         },
@@ -1636,7 +1649,7 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/dynamic_fps.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/dynamic_fps.json",
             "path": "config/dynamic_fps.json"
           }
         },
@@ -1646,7 +1659,7 @@
           "type": "File",
           "artifact": {
             "size": 543,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/ecologics.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/ecologics.json",
             "path": "config/ecologics.json"
           }
         },
@@ -1656,7 +1669,7 @@
           "type": "File",
           "artifact": {
             "size": 2059,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/enchdesc.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/enchdesc.json",
             "path": "config/enchdesc.json"
           }
         },
@@ -1666,7 +1679,7 @@
           "type": "File",
           "artifact": {
             "size": 420,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/ends_delight-common.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/ends_delight-common.json",
             "path": "config/ends_delight-common.json"
           }
         },
@@ -1676,7 +1689,7 @@
           "type": "File",
           "artifact": {
             "size": 1865,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/entityculling.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/entityculling.json",
             "path": "config/entityculling.json"
           }
         },
@@ -1686,7 +1699,7 @@
           "type": "File",
           "artifact": {
             "size": 1000,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/entity_model_features.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/entity_model_features.json",
             "path": "config/entity_model_features.json"
           }
         },
@@ -1696,7 +1709,7 @@
           "type": "File",
           "artifact": {
             "size": 1420,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/entity_texture_features.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/entity_texture_features.json",
             "path": "config/entity_texture_features.json"
           }
         },
@@ -1706,7 +1719,7 @@
           "type": "File",
           "artifact": {
             "size": 28,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/etf_warnings.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/etf_warnings.json",
             "path": "config/etf_warnings.json"
           }
         },
@@ -1716,7 +1729,7 @@
           "type": "File",
           "artifact": {
             "size": 290,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/fabric/indigo-renderer.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/fabric/indigo-renderer.properties",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
@@ -1726,7 +1739,7 @@
           "type": "File",
           "artifact": {
             "size": 263,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/farmersdelight-client.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/farmersdelight-client.json",
             "path": "config/farmersdelight-client.json"
           }
         },
@@ -1736,7 +1749,7 @@
           "type": "File",
           "artifact": {
             "size": 1688,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/farmersdelight-common.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/farmersdelight-common.json",
             "path": "config/farmersdelight-common.json"
           }
         },
@@ -1746,7 +1759,7 @@
           "type": "File",
           "artifact": {
             "size": 1525,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/ferritecore.mixin.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/ferritecore.mixin.properties",
             "path": "config/ferritecore.mixin.properties"
           }
         },
@@ -1756,7 +1769,7 @@
           "type": "File",
           "artifact": {
             "size": 523,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/forgeconfigapiport.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/forgeconfigapiport.toml",
             "path": "config/forgeconfigapiport.toml"
           }
         },
@@ -1766,7 +1779,7 @@
           "type": "File",
           "artifact": {
             "size": 6403,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/fzzy_config/keybinds.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/fzzy_config/keybinds.toml",
             "path": "config/fzzy_config/keybinds.toml"
           }
         },
@@ -1776,7 +1789,7 @@
           "type": "File",
           "artifact": {
             "size": 302,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/immersive_paintings/client_config.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/immersive_paintings/client_config.toml",
             "path": "config/immersive_paintings/client_config.toml"
           }
         },
@@ -1786,7 +1799,7 @@
           "type": "File",
           "artifact": {
             "size": 412,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/immersive_paintings/common_config.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/immersive_paintings/common_config.toml",
             "path": "config/immersive_paintings/common_config.toml"
           }
         },
@@ -1796,7 +1809,7 @@
           "type": "File",
           "artifact": {
             "size": 1177,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/inventoryprofilesnext/127.0.0.1/villager-trading-config-v2.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/inventoryprofilesnext/127.0.0.1/villager-trading-config-v2.json",
             "path": "config/inventoryprofilesnext/127.0.0.1/villager-trading-config-v2.json"
           }
         },
@@ -1806,7 +1819,7 @@
           "type": "File",
           "artifact": {
             "size": 1450,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
             "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
           }
         },
@@ -1816,7 +1829,7 @@
           "type": "File",
           "artifact": {
             "size": 269,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
             "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
           }
         },
@@ -1826,7 +1839,7 @@
           "type": "File",
           "artifact": {
             "size": 464,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
           }
         },
@@ -1836,7 +1849,7 @@
           "type": "File",
           "artifact": {
             "size": 288,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -1846,7 +1859,7 @@
           "type": "File",
           "artifact": {
             "size": 2234,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/iteminteractions-client.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/iteminteractions-client.toml",
             "path": "config/iteminteractions-client.toml"
           }
         },
@@ -1856,7 +1869,7 @@
           "type": "File",
           "artifact": {
             "size": 19,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/blacklist.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/blacklist.json",
             "path": "config/jei/blacklist.json"
           }
         },
@@ -1866,7 +1879,7 @@
           "type": "File",
           "artifact": {
             "size": 396,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/ingredient-list-mod-sort-order.ini",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -1876,7 +1889,7 @@
           "type": "File",
           "artifact": {
             "size": 86,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/ingredient-list-type-sort-order.ini",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/ingredient-list-type-sort-order.ini",
             "path": "config/jei/ingredient-list-type-sort-order.ini"
           }
         },
@@ -1886,7 +1899,7 @@
           "type": "File",
           "artifact": {
             "size": 10825,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/jei-client.ini",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/jei-client.ini",
             "path": "config/jei/jei-client.ini"
           }
         },
@@ -1896,7 +1909,7 @@
           "type": "File",
           "artifact": {
             "size": 1362,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/jei-colors.ini",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/jei-colors.ini",
             "path": "config/jei/jei-colors.ini"
           }
         },
@@ -1906,7 +1919,7 @@
           "type": "File",
           "artifact": {
             "size": 1454,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/jei-debug.ini",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/jei-debug.ini",
             "path": "config/jei/jei-debug.ini"
           }
         },
@@ -1916,7 +1929,7 @@
           "type": "File",
           "artifact": {
             "size": 550,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/jei-mod-id-format.ini",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/jei-mod-id-format.ini",
             "path": "config/jei/jei-mod-id-format.ini"
           }
         },
@@ -1926,7 +1939,7 @@
           "type": "File",
           "artifact": {
             "size": 428,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/recipe-category-sort-order.ini",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/recipe-category-sort-order.ini",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
         },
@@ -1936,7 +1949,7 @@
           "type": "File",
           "artifact": {
             "size": 120,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/world/server/Minecraft____59c3b57d/bookmarks.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/world/server/Minecraft____59c3b57d/bookmarks.json",
             "path": "config/jei/world/server/Minecraft____59c3b57d/bookmarks.json"
           }
         },
@@ -1946,7 +1959,7 @@
           "type": "File",
           "artifact": {
             "size": 209,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/jei/world/server/Minecraft____59c3b57d/lookupHistory.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/jei/world/server/Minecraft____59c3b57d/lookupHistory.json",
             "path": "config/jei/world/server/Minecraft____59c3b57d/lookupHistory.json"
           }
         },
@@ -1956,7 +1969,7 @@
           "type": "File",
           "artifact": {
             "size": 1513,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/koreanpatch.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/koreanpatch.json5",
             "path": "config/koreanpatch.json5"
           }
         },
@@ -1966,7 +1979,7 @@
           "type": "File",
           "artifact": {
             "size": 267,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/lithium.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/lithium.properties",
             "path": "config/lithium.properties"
           }
         },
@@ -1976,7 +1989,7 @@
           "type": "File",
           "artifact": {
             "size": 207,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/modelfix-client.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/modelfix-client.json",
             "path": "config/modelfix-client.json"
           }
         },
@@ -1986,7 +1999,7 @@
           "type": "File",
           "artifact": {
             "size": 4087,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/modernfix-mixins.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/modernfix-mixins.properties",
             "path": "config/modernfix-mixins.properties"
           }
         },
@@ -1996,7 +2009,7 @@
           "type": "File",
           "artifact": {
             "size": 840,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/modmenu.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/modmenu.json",
             "path": "config/modmenu.json"
           }
         },
@@ -2006,7 +2019,7 @@
           "type": "File",
           "artifact": {
             "size": 491,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/multiworld/i18n.yml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/multiworld/i18n.yml",
             "path": "config/multiworld/i18n.yml"
           }
         },
@@ -2016,7 +2029,7 @@
           "type": "File",
           "artifact": {
             "size": 2844,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/neat-client.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/neat-client.json5",
             "path": "config/neat-client.json5"
           }
         },
@@ -2026,7 +2039,7 @@
           "type": "File",
           "artifact": {
             "size": 565,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/NoChatReports/NCR-Client.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/NoChatReports/NCR-Client.json",
             "path": "config/NoChatReports/NCR-Client.json"
           }
         },
@@ -2036,7 +2049,7 @@
           "type": "File",
           "artifact": {
             "size": 230,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/NoChatReports/NCR-Common.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/NoChatReports/NCR-Common.json",
             "path": "config/NoChatReports/NCR-Common.json"
           }
         },
@@ -2046,7 +2059,7 @@
           "type": "File",
           "artifact": {
             "size": 520,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/NoChatReports/NCR-Encryption.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/NoChatReports/NCR-Encryption.json",
             "path": "config/NoChatReports/NCR-Encryption.json"
           }
         },
@@ -2056,7 +2069,7 @@
           "type": "File",
           "artifact": {
             "size": 59,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/NoChatReports/NCR-ServerPreferences.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/NoChatReports/NCR-ServerPreferences.json",
             "path": "config/NoChatReports/NCR-ServerPreferences.json"
           }
         },
@@ -2066,7 +2079,7 @@
           "type": "File",
           "artifact": {
             "size": 167,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/NoChatReports/README.md",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/NoChatReports/README.md",
             "path": "config/NoChatReports/README.md"
           }
         },
@@ -2076,7 +2089,7 @@
           "type": "File",
           "artifact": {
             "size": 1151,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/paladins/effects.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/paladins/effects.json",
             "path": "config/paladins/effects.json"
           }
         },
@@ -2086,7 +2099,7 @@
           "type": "File",
           "artifact": {
             "size": 11029,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/paladins/equipment_v2.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/paladins/equipment_v2.json",
             "path": "config/paladins/equipment_v2.json"
           }
         },
@@ -2096,7 +2109,7 @@
           "type": "File",
           "artifact": {
             "size": 1205,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/paladins/shields.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/paladins/shields.json",
             "path": "config/paladins/shields.json"
           }
         },
@@ -2106,7 +2119,7 @@
           "type": "File",
           "artifact": {
             "size": 78,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/paladins/tweaks.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/paladins/tweaks.json",
             "path": "config/paladins/tweaks.json"
           }
         },
@@ -2116,7 +2129,7 @@
           "type": "File",
           "artifact": {
             "size": 1064,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/paladins/villages.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/paladins/villages.json",
             "path": "config/paladins/villages.json"
           }
         },
@@ -2126,7 +2139,7 @@
           "type": "File",
           "artifact": {
             "size": 8510,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/de_de.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/de_de.json",
             "MD5": "cb8838ceada0cc1ac72d33c3359eb883",
             "path": "config/plasmovoice/.crowdin/de_de.json"
           }
@@ -2137,7 +2150,7 @@
           "type": "File",
           "artifact": {
             "size": 9115,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/es_es.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/es_es.json",
             "MD5": "ebe33e9b2d8f8f2d4519edb2e4394e40",
             "path": "config/plasmovoice/.crowdin/es_es.json"
           }
@@ -2148,7 +2161,7 @@
           "type": "File",
           "artifact": {
             "size": 9154,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/fr_fr.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/fr_fr.json",
             "MD5": "f3a517b45d6920f327020408fd9751fd",
             "path": "config/plasmovoice/.crowdin/fr_fr.json"
           }
@@ -2159,7 +2172,7 @@
           "type": "File",
           "artifact": {
             "size": 9290,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/he_il.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/he_il.json",
             "MD5": "2f2e21189a6f11d39a33b7b66a111b5c",
             "path": "config/plasmovoice/.crowdin/he_il.json"
           }
@@ -2170,7 +2183,7 @@
           "type": "File",
           "artifact": {
             "size": 9467,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/ja_jp.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/ja_jp.json",
             "MD5": "5ccf0895426e7fca281ca28d13dccc31",
             "path": "config/plasmovoice/.crowdin/ja_jp.json"
           }
@@ -2181,7 +2194,7 @@
           "type": "File",
           "artifact": {
             "size": 9208,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/ko_kr.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/ko_kr.json",
             "MD5": "ab87eb710206cd3eef9e1ba03f88bd57",
             "path": "config/plasmovoice/.crowdin/ko_kr.json"
           }
@@ -2192,7 +2205,7 @@
           "type": "File",
           "artifact": {
             "size": 8890,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/pl_pl.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/pl_pl.json",
             "MD5": "6a09569fa006d3f01bc00333838df100",
             "path": "config/plasmovoice/.crowdin/pl_pl.json"
           }
@@ -2203,7 +2216,7 @@
           "type": "File",
           "artifact": {
             "size": 9046,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/pt_br.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/pt_br.json",
             "MD5": "97bd0d3f6c281f960cf448c4346563fc",
             "path": "config/plasmovoice/.crowdin/pt_br.json"
           }
@@ -2214,7 +2227,7 @@
           "type": "File",
           "artifact": {
             "size": 11446,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/ru_ru.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/ru_ru.json",
             "MD5": "9c3a8c7dc0eb3a6640847988b139fb00",
             "path": "config/plasmovoice/.crowdin/ru_ru.json"
           }
@@ -2225,7 +2238,7 @@
           "type": "File",
           "artifact": {
             "size": 13,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/timestamp",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/timestamp",
             "MD5": "34336b52f39227368dedda092428bb9b",
             "path": "config/plasmovoice/.crowdin/timestamp"
           }
@@ -2236,7 +2249,7 @@
           "type": "File",
           "artifact": {
             "size": 11312,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/tt_ru.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/tt_ru.json",
             "MD5": "6f8f48b6ce5ec3b6f8ea9cf34a3d5dc4",
             "path": "config/plasmovoice/.crowdin/tt_ru.json"
           }
@@ -2247,7 +2260,7 @@
           "type": "File",
           "artifact": {
             "size": 10828,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/uk_ua.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/uk_ua.json",
             "MD5": "a68060377351fcfdbf5c0af87330e6c7",
             "path": "config/plasmovoice/.crowdin/uk_ua.json"
           }
@@ -2258,7 +2271,7 @@
           "type": "File",
           "artifact": {
             "size": 8123,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/zh_cn.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/zh_cn.json",
             "MD5": "6a385d12b888457adee2b62acc8e9aa6",
             "path": "config/plasmovoice/.crowdin/zh_cn.json"
           }
@@ -2269,7 +2282,7 @@
           "type": "File",
           "artifact": {
             "size": 7637,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/.crowdin/zh_tw.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/.crowdin/zh_tw.json",
             "MD5": "2d6f70c853f3707a19472a8b1a6422c0",
             "path": "config/plasmovoice/.crowdin/zh_tw.json"
           }
@@ -2280,7 +2293,7 @@
           "type": "File",
           "artifact": {
             "size": 1731,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/client.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
           }
         },
@@ -2290,7 +2303,7 @@
           "type": "File",
           "artifact": {
             "size": 1309,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/plasmovoice/meta_cache.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/plasmovoice/meta_cache.json",
             "path": "config/plasmovoice/meta_cache.json"
           }
         },
@@ -2300,7 +2313,7 @@
           "type": "File",
           "artifact": {
             "size": 1852,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/rogues/effects.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/rogues/effects.json",
             "path": "config/rogues/effects.json"
           }
         },
@@ -2310,7 +2323,7 @@
           "type": "File",
           "artifact": {
             "size": 22402,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/rogues/equipment_v3.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/rogues/equipment_v3.json",
             "path": "config/rogues/equipment_v3.json"
           }
         },
@@ -2320,7 +2333,7 @@
           "type": "File",
           "artifact": {
             "size": 166,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/rogues/tweaks.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/rogues/tweaks.json",
             "path": "config/rogues/tweaks.json"
           }
         },
@@ -2330,7 +2343,7 @@
           "type": "File",
           "artifact": {
             "size": 1049,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/rogues/villages.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/rogues/villages.json",
             "path": "config/rogues/villages.json"
           }
         },
@@ -2340,7 +2353,7 @@
           "type": "File",
           "artifact": {
             "size": 185395,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/rpg_series/loot_equipment_v2.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/rpg_series/loot_equipment_v2.json",
             "path": "config/rpg_series/loot_equipment_v2.json"
           }
         },
@@ -2350,7 +2363,7 @@
           "type": "File",
           "artifact": {
             "size": 30266,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/rpg_series/loot_scrolls_v1.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/rpg_series/loot_scrolls_v1.json",
             "path": "config/rpg_series/loot_scrolls_v1.json"
           }
         },
@@ -2360,7 +2373,7 @@
           "type": "File",
           "artifact": {
             "size": 17,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/rpg_series/tag_cache.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/rpg_series/tag_cache.json",
             "path": "config/rpg_series/tag_cache.json"
           }
         },
@@ -2370,7 +2383,7 @@
           "type": "File",
           "artifact": {
             "size": 1486,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sodium-extra-options.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sodium-extra-options.json",
             "path": "config/sodium-extra-options.json"
           }
         },
@@ -2380,7 +2393,7 @@
           "type": "File",
           "artifact": {
             "size": 360,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sodium-extra.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sodium-extra.properties",
             "path": "config/sodium-extra.properties"
           }
         },
@@ -2390,7 +2403,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sodium-fingerprint.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sodium-fingerprint.json",
             "path": "config/sodium-fingerprint.json"
           }
         },
@@ -2400,7 +2413,7 @@
           "type": "File",
           "artifact": {
             "size": 258,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sodium-mixins.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sodium-mixins.properties",
             "path": "config/sodium-mixins.properties"
           }
         },
@@ -2410,7 +2423,7 @@
           "type": "File",
           "artifact": {
             "size": 664,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sodium-options.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sodium-options.json",
             "path": "config/sodium-options.json"
           }
         },
@@ -2420,7 +2433,7 @@
           "type": "File",
           "artifact": {
             "size": 75437,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sound_physics_remastered/allowed_sounds.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sound_physics_remastered/allowed_sounds.properties",
             "path": "config/sound_physics_remastered/allowed_sounds.properties"
           }
         },
@@ -2430,7 +2443,7 @@
           "type": "File",
           "artifact": {
             "size": 4831,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sound_physics_remastered/occlusion.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sound_physics_remastered/occlusion.properties",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -2440,7 +2453,7 @@
           "type": "File",
           "artifact": {
             "size": 4713,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sound_physics_remastered/reflectivity.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sound_physics_remastered/reflectivity.properties",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -2450,7 +2463,7 @@
           "type": "File",
           "artifact": {
             "size": 5105,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/sound_physics_remastered/soundphysics.properties",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/sound_physics_remastered/soundphysics.properties",
             "path": "config/sound_physics_remastered/soundphysics.properties"
           }
         },
@@ -2460,7 +2473,7 @@
           "type": "File",
           "artifact": {
             "size": 887,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/spell_engine/client.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/spell_engine/client.json5",
             "path": "config/spell_engine/client.json5"
           }
         },
@@ -2470,7 +2483,7 @@
           "type": "File",
           "artifact": {
             "size": 2526,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/spell_engine/elemental_weaknesses.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/spell_engine/elemental_weaknesses.json",
             "path": "config/spell_engine/elemental_weaknesses.json"
           }
         },
@@ -2480,7 +2493,7 @@
           "type": "File",
           "artifact": {
             "size": 162,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/spell_engine/fabric_compatibility.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/spell_engine/fabric_compatibility.json",
             "path": "config/spell_engine/fabric_compatibility.json"
           }
         },
@@ -2490,7 +2503,7 @@
           "type": "File",
           "artifact": {
             "size": 663,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/spell_engine/hud_config.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/spell_engine/hud_config.json",
             "path": "config/spell_engine/hud_config.json"
           }
         },
@@ -2500,7 +2513,7 @@
           "type": "File",
           "artifact": {
             "size": 5027,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/spell_engine/server.json5",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/spell_engine/server.json5",
             "path": "config/spell_engine/server.json5"
           }
         },
@@ -2510,7 +2523,7 @@
           "type": "File",
           "artifact": {
             "size": 150,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/spell_engine/spell_container_templates.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/spell_engine/spell_container_templates.json",
             "path": "config/spell_engine/spell_container_templates.json"
           }
         },
@@ -2520,7 +2533,7 @@
           "type": "File",
           "artifact": {
             "size": 593,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/spell_power/attributes.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/spell_power/attributes.json",
             "path": "config/spell_power/attributes.json"
           }
         },
@@ -2530,7 +2543,7 @@
           "type": "File",
           "artifact": {
             "size": 988,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/terrablender.toml",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/terrablender.toml",
             "path": "config/terrablender.toml"
           }
         },
@@ -2540,7 +2553,7 @@
           "type": "File",
           "artifact": {
             "size": 4264,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/vinery.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/vinery.json",
             "path": "config/vinery.json"
           }
         },
@@ -2550,7 +2563,7 @@
           "type": "File",
           "artifact": {
             "size": 1020,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/wizards/effects.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/wizards/effects.json",
             "path": "config/wizards/effects.json"
           }
         },
@@ -2560,7 +2573,7 @@
           "type": "File",
           "artifact": {
             "size": 15358,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/wizards/equipment_v2.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/wizards/equipment_v2.json",
             "path": "config/wizards/equipment_v2.json"
           }
         },
@@ -2570,7 +2583,7 @@
           "type": "File",
           "artifact": {
             "size": 83,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/wizards/tweaks.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/wizards/tweaks.json",
             "path": "config/wizards/tweaks.json"
           }
         },
@@ -2580,7 +2593,7 @@
           "type": "File",
           "artifact": {
             "size": 1317,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/config/wizards/villages.json",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/config/wizards/villages.json",
             "path": "config/wizards/villages.json"
           }
         },
@@ -2589,9 +2602,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8279,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/options.txt",
+            "size": 8329,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "DDANBI.zip",
+          "name": "DDANBI.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4929570,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/resourcepacks/DDANBI.zip",
+            "MD5": "af8cdace16473d3b208c304da271d392",
+            "path": "resourcepacks/DDANBI.zip"
           }
         },
         {
@@ -2600,7 +2624,7 @@
           "type": "File",
           "artifact": {
             "size": 271064,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/resourcepacks/FA+Details-v2.0.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/resourcepacks/FA+Details-v2.0.zip",
             "MD5": "fcf9ab94a62f0cac77dd576898c8ab83",
             "path": "resourcepacks/FA+Details-v2.0.zip"
           }
@@ -2611,7 +2635,7 @@
           "type": "File",
           "artifact": {
             "size": 90623,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/resourcepacks/FA+Emissive-v1.4.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/resourcepacks/FA+Emissive-v1.4.zip",
             "MD5": "a11a3c1e9e85f4ba5908df15079686b0",
             "path": "resourcepacks/FA+Emissive-v1.4.zip"
           }
@@ -2622,7 +2646,7 @@
           "type": "File",
           "artifact": {
             "size": 144147,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/resourcepacks/FA+Objects-v2.0.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/resourcepacks/FA+Objects-v2.0.zip",
             "MD5": "0d3d5eb5de32be4a5e20afbb7679538e",
             "path": "resourcepacks/FA+Objects-v2.0.zip"
           }
@@ -2633,7 +2657,7 @@
           "type": "File",
           "artifact": {
             "size": 815824,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/resourcepacks/FreshAnimations_v1.10.1.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/resourcepacks/FreshAnimations_v1.10.1.zip",
             "MD5": "aa7093e69c3b4c071b0d07fcf7fc0cc1",
             "path": "resourcepacks/FreshAnimations_v1.10.1.zip"
           }
@@ -2644,7 +2668,7 @@
           "type": "File",
           "artifact": {
             "size": 239240,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/resourcepacks/SodiumTranslations.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/resourcepacks/SodiumTranslations.zip",
             "MD5": "5d9a82f1afc9b694b3eda2ca09111334",
             "path": "resourcepacks/SodiumTranslations.zip"
           }
@@ -2655,7 +2679,7 @@
           "type": "File",
           "artifact": {
             "size": 2152322,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/resourcepacks/Stay_True_1.21.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/resourcepacks/Stay_True_1.21.zip",
             "MD5": "1743567759c02d1b7486f2109aad9860",
             "path": "resourcepacks/Stay_True_1.21.zip"
           }
@@ -2666,7 +2690,7 @@
           "type": "File",
           "artifact": {
             "size": 690440,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/resourcepacks/vanilla-cnt-0-1.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/resourcepacks/vanilla-cnt-0-1.zip",
             "MD5": "1431f05affd2a67f38ff318afa9fe300",
             "path": "resourcepacks/vanilla-cnt-0-1.zip"
           }
@@ -2677,7 +2701,7 @@
           "type": "File",
           "artifact": {
             "size": 184,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/servers.dat",
             "MD5": "812cbba155a2461f02e0ead3e1875654",
             "path": "servers.dat"
           }
@@ -2688,7 +2712,7 @@
           "type": "File",
           "artifact": {
             "size": 3184524,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/shaderpacks/AstraLex_V93.0.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/shaderpacks/AstraLex_V93.0.zip",
             "MD5": "021c95bd3d217b4a7e45997d5127285b",
             "path": "shaderpacks/AstraLex_V93.0.zip"
           }
@@ -2699,7 +2723,7 @@
           "type": "File",
           "artifact": {
             "size": 1121678,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/shaderpacks/BSL_v10.0.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/shaderpacks/BSL_v10.0.zip",
             "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
             "path": "shaderpacks/BSL_v10.0.zip"
           }
@@ -2710,7 +2734,7 @@
           "type": "File",
           "artifact": {
             "size": 500696,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip",
             "MD5": "04c822b2da584e21745869190ac653e6",
             "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
           }
@@ -2721,7 +2745,7 @@
           "type": "File",
           "artifact": {
             "size": 500699,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
             "MD5": "3f83f81df2ad4608d830017425b45bac",
             "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
           }
@@ -2732,7 +2756,7 @@
           "type": "File",
           "artifact": {
             "size": 395165,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/shaderpacks/MakeUp-UltraFast-9.3e.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/shaderpacks/MakeUp-UltraFast-9.3e.zip",
             "MD5": "a660004324fce7804871ddf301b127f2",
             "path": "shaderpacks/MakeUp-UltraFast-9.3e.zip"
           }
@@ -2743,7 +2767,7 @@
           "type": "File",
           "artifact": {
             "size": 11480841,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/shaderpacks/Noble%20v1.8.4.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/shaderpacks/Noble%20v1.8.4.zip",
             "MD5": "bce38b5c7a916683e8e7a0e924249fe5",
             "path": "shaderpacks/Noble v1.8.4.zip"
           }
@@ -2754,7 +2778,7 @@
           "type": "File",
           "artifact": {
             "size": 148481,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.541%20Lite.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.541%20Lite.zip",
             "MD5": "f2ab1ced3ce24508bb6a75f230183492",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.541 Lite.zip"
           }
@@ -2765,7 +2789,7 @@
           "type": "File",
           "artifact": {
             "size": 148479,
-            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test1-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.541%20Medium.zip",
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test2-1.21.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.541%20Medium.zip",
             "MD5": "73e9dca70c7ac2e7976821ec1e69e858",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.541 Medium.zip"
           }
