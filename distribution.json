@@ -1298,9 +1298,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 184,
+            "size": 123,
             "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test4-1.21.1/files/servers.dat",
-            "MD5": "812cbba155a2461f02e0ead3e1875654",
+            "MD5": "7e652ae9e2187f923d3a8cd0ca6c65ae",
             "path": "servers.dat"
           }
         },
