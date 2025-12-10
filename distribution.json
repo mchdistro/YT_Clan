@@ -1200,7 +1200,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 6241,
+            "size": 6215,
             "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test3-1.21.1/files/options.txt",
             "path": "options.txt"
           }
