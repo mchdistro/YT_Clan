@@ -12,7 +12,7 @@
       "name": "도토리 마을",
       "description": "Minecraft 1.21.1 (Fabric v0.17.3)",
       "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "address": "mc.gotiger.dev:20203",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -173,6 +173,16 @@
             "size": 813783,
             "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test3-1.21.1/fabricmods/required/bettercombat-fabric-2.2.5+1.21.1.jar",
             "MD5": "3f88ae8309489dd9b78f0d4ca0e02aea"
+          }
+        },
+        {
+          "id": "kr.shihyeon:blurserveraddress:1.2.0+mc1.21.1@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11165,
+            "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_test3-1.21.1/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.1.jar",
+            "MD5": "31dfd9ed8f516f519c0e05b6265aaf3c"
           }
         },
         {
