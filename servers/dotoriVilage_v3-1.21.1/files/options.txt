@@ -48,7 +48,7 @@ mouseSensitivity:0.3028169014084507
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/vanilla-cnt-0-1.zip","file/SodiumTranslations.zip","file/FreshAnimations_v1.10.1.zip","file/FA+Objects-v2.0.zip","file/FA+Emissive-v1.4.zip","file/FA+Details-v2.0.zip","file/Stay_True_1.21.zip","vinery:bushy_leaves","file/DDANBI"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/vanilla-cnt-0-1.zip","file/SodiumTranslations.zip","file/FreshAnimations_v1.10.1.zip","file/FA+Objects-v2.0.zip","file/FA+Emissive-v1.4.zip","file/FA+Details-v2.0.zip","file/Stay_True_1.21.zip","vinery:bushy_leaves","file/DDANBI.zip"]
 incompatibleResourcePacks:["appleskin","bookshelf","dungeons_arise","easy_npc","easy_npc_config_ui","enchdesc","entity_model_features","entity_texture_features","jei","koreanpatch","modernfix","neat","pv-addon-soundphysics","terrablender"]
 lastServer:
 lang:ko_kr
