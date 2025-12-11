@@ -12,7 +12,7 @@
       "name": "도토리 마을",
       "description": "Minecraft 1.21.1 (Fabric v0.17.3)",
       "icon": "https://github.com/mchdistro/YT_Clan/raw/main/server-icon.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "mc.gotiger.dev:20203",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -1210,9 +1210,9 @@
           "name": "DDANBI.zip",
           "type": "File",
           "artifact": {
-            "size": 4929570,
+            "size": 7190489,
             "url": "https://github.com/mchdistro/YT_Clan/raw/main/servers/dotoriVilage_v1-1.21.1/files/resourcepacks/DDANBI.zip",
-            "MD5": "af8cdace16473d3b208c304da271d392",
+            "MD5": "078040f480ec1b3ff0c3f2e41133e7f7",
             "path": "resourcepacks/DDANBI.zip"
           }
         },
